@@ -1,6 +1,6 @@
 from kruskal import executar_kruskal, encontrar_rota
 
-caminho_arquivo = 'grafoPonderadoMunicipios.csv'
+caminho_arquivo = 'datasets/grafoPonderadoMunicipios.csv'
 arvore_geradora, todas_cidades = executar_kruskal(caminho_arquivo)
 
 print("=== ROTA DE REDE ELÉTRICA ===")

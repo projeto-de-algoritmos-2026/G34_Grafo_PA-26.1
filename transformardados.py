@@ -15,7 +15,7 @@ def calcular_haversine(lat1, lon1, lat2, lon2):
     return raio_terra * c
 
 municipios = []
-with open('municipios.csv', mode='r', encoding='utf-8') as file:
+with open('datasets/municipios.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
         if row['codigo_uf'] == '52':
@@ -34,7 +34,7 @@ for m1, m2 in itertools.combinations(municipios, 2):
     if distancia <= distancia_maxima_km:
         arestas.append([m1['nome'], m2['nome'], round(distancia, 2)])
 
-with open('grafoPonderadoMunicipios.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('datasets/grafoPonderadoMunicipios.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['origem', 'destino', 'peso'])
     writer.writerows(arestas)

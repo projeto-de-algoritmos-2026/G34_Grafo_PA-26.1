@@ -1,10 +1,36 @@
-from kruskal import executar_kruskal, encontrar_rota
+from kruskal import executar_kruskal, encontrar_rota as encontrar_rota_kruskal
+from prim import executar_prim, encontrar_rota as encontrar_rota_prim
 
 caminho_arquivo = 'datasets/grafoPonderadoMunicipios.csv'
-arvore_geradora, todas_cidades = executar_kruskal(caminho_arquivo)
 
 print("=== ROTA DE REDE ELÉTRICA ===")
-print(f"Criador de rotas otimizadas para distribuição de energia elétrica no estado de Goiás.\nMunicípios disponíveis: {len(todas_cidades)}")
+print("Criador de rotas otimizadas para distribuição de energia elétrica no estado de Goiás.\n")
+
+# Menu de seleção do método
+print("Selecione o método para calcular a árvore geradora mínima:")
+print("1 - Kruskal")
+print("2 - Prim")
+
+while True:
+    escolha = input("\nDigite a opção (1 ou 2): ").strip()
+    if escolha in ['1', '2']:
+        break
+    else:
+        print("Opção inválida! Digite 1 para Kruskal ou 2 para Prim.")
+
+# Executar o método selecionado
+if escolha == '1':
+    print("\n✓ Método Kruskal selecionado")
+    arvore_geradora, todas_cidades = executar_kruskal(caminho_arquivo)
+    encontrar_rota = encontrar_rota_kruskal
+    metodo_nome = "Kruskal"
+else:
+    print("\n✓ Método Prim selecionado")
+    arvore_geradora, todas_cidades = executar_prim(caminho_arquivo)
+    encontrar_rota = encontrar_rota_prim
+    metodo_nome = "Prim"
+
+print(f"Municípios disponíveis: {len(todas_cidades)}")
 
 while True:
     print("\n------------------------------------------------")
@@ -22,7 +48,7 @@ while True:
     rota = encontrar_rota(arvore_geradora, origem_input, destino_input)
 
     if rota:
-        print(f"\nRota encontrada na malha elétrica (Kruskal) de {origem_input} até {destino_input}:")
+        print(f"\nRota encontrada na malha elétrica ({metodo_nome}) de {origem_input} até {destino_input}:")
         custo_rota = 0.0
         
         for i in range(len(rota)):

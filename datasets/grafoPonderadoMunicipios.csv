@@ -1,14 +1,11 @@
 origem,destino,peso
-Abadia de Goiás,Abadiânia,100.16
 Abadia de Goiás,Adelândia,86.19
-Abadia de Goiás,Aloândia,108.14
 Abadia de Goiás,Americano do Brasil,80.64
 Abadia de Goiás,Anápolis,70.61
 Abadia de Goiás,Anicuns,64.33
 Abadia de Goiás,Aparecida de Goiânia,21.82
 Abadia de Goiás,Araçu,51.36
 Abadia de Goiás,Aragoiânia,16.85
-Abadia de Goiás,Aurilândia,109.3
 Abadia de Goiás,Avelinópolis,46.68
 Abadia de Goiás,Bela Vista de Goiás,57.21
 Abadia de Goiás,Bonfinópolis,53.4
@@ -39,14 +36,12 @@ Abadia de Goiás,Jandaia,81.59
 Abadia de Goiás,Jesúpolis,90.23
 Abadia de Goiás,Leopoldo de Bulhões,75.96
 Abadia de Goiás,Mairipotaba,60.29
-Abadia de Goiás,Mossâmedes,108.37
 Abadia de Goiás,Nazário,50.86
 Abadia de Goiás,Nerópolis,45.6
 Abadia de Goiás,Nova Veneza,45.11
 Abadia de Goiás,Ouro Verde de Goiás,65.49
 Abadia de Goiás,Palmeiras de Goiás,51.66
 Abadia de Goiás,Palminópolis,77.18
-Abadia de Goiás,Paraúna,109.23
 Abadia de Goiás,Petrolina de Goiás,74.29
 Abadia de Goiás,Piracanjuba,75.52
 Abadia de Goiás,Pontalina,85.09
@@ -55,8 +50,6 @@ Abadia de Goiás,Santa Bárbara de Goiás,34.07
 Abadia de Goiás,Santa Rosa de Goiás,75.09
 Abadia de Goiás,Santo Antônio de Goiás,33.72
 Abadia de Goiás,São Francisco de Goiás,94.47
-Abadia de Goiás,São João da Paraúna,103.23
-Abadia de Goiás,São Luís de Montes Belos,102.65
 Abadia de Goiás,São Miguel do Passa Quatro,89.4
 Abadia de Goiás,Senador Canedo,37.64
 Abadia de Goiás,Silvânia,89.36
@@ -70,7 +63,6 @@ Abadiânia,Águas Lindas de Goiás,66.32
 Abadiânia,Alexânia,24.64
 Abadiânia,Anápolis,30.16
 Abadiânia,Aparecida de Goiânia,90.14
-Abadiânia,Araçu,105.53
 Abadiânia,Bela Vista de Goiás,89.78
 Abadiânia,Bonfinópolis,54.12
 Abadiânia,Brazabrantes,77.04
@@ -83,12 +75,9 @@ Abadiânia,Corumbá de Goiás,32.35
 Abadiânia,Damolândia,70.48
 Abadiânia,Gameleira de Goiás,32.71
 Abadiânia,Goianápolis,48.57
-Abadiânia,Goianésia,107.79
 Abadiânia,Goiânia,80.69
 Abadiânia,Goianira,83.78
-Abadiânia,Hidrolândia,101.63
 Abadiânia,Inhumas,86.73
-Abadiânia,Itaguari,101.19
 Abadiânia,Itauçu,96.66
 Abadiânia,Jaraguá,83.4
 Abadiânia,Jesúpolis,76.56
@@ -97,7 +86,6 @@ Abadiânia,Luziânia,80.92
 Abadiânia,Nerópolis,59.82
 Abadiânia,Nova Veneza,67.99
 Abadiânia,Novo Gama,72.56
-Abadiânia,Orizona,102.72
 Abadiânia,Ouro Verde de Goiás,52.21
 Abadiânia,Petrolina de Goiás,68.28
 Abadiânia,Pirenópolis,47.03
@@ -114,26 +102,20 @@ Abadiânia,Trindade,97.99
 Abadiânia,Valparaíso de Goiás,79.34
 Abadiânia,Vianópolis,63.73
 Abadiânia,Vila Propício,84.72
-Acreúna,Aloândia,102.15
 Acreúna,Aurilândia,80.48
 Acreúna,Cachoeira de Goiás,86.4
-Acreúna,Campestre de Goiás,100.93
 Acreúna,Castelândia,79.51
 Acreúna,Cezarina,79.22
-Acreúna,Cromínia,106.3
 Acreúna,Edealina,75.45
 Acreúna,Edéia,47.67
 Acreúna,Firminópolis,91.29
-Acreúna,Guapó,109.28
 Acreúna,Indiara,50.22
 Acreúna,Ivolândia,99.06
 Acreúna,Jandaia,45.73
 Acreúna,Joviânia,91.9
 Acreúna,Mairipotaba,94.58
 Acreúna,Maurilândia,64.15
-Acreúna,Moiporá,102.41
 Acreúna,Montividiu,84.82
-Acreúna,Nazário,104.73
 Acreúna,Palmeiras de Goiás,81.39
 Acreúna,Palminópolis,70.72
 Acreúna,Paraúna,50.61
@@ -149,9 +131,7 @@ Acreúna,Turvelândia,51.09
 Acreúna,Varjão,88.0
 Acreúna,Vicentinópolis,71.07
 Adelândia,Americano do Brasil,26.48
-Adelândia,Amorinópolis,101.27
 Adelândia,Anicuns,22.5
-Adelândia,Aparecida de Goiânia,107.86
 Adelândia,Araçu,52.15
 Adelândia,Aragoiânia,94.31
 Adelândia,Aurilândia,43.33
@@ -164,11 +144,8 @@ Adelândia,Caturaí,71.77
 Adelândia,Cezarina,74.76
 Adelândia,Córrego do Ouro,43.18
 Adelândia,Damolândia,87.43
-Adelândia,Edéia,106.19
-Adelândia,Faina,109.38
 Adelândia,Fazenda Nova,70.16
 Adelândia,Firminópolis,23.55
-Adelândia,Goiânia,100.78
 Adelândia,Goianira,79.3
 Adelândia,Goiás,53.38
 Adelândia,Guapó,81.69
@@ -176,7 +153,6 @@ Adelândia,Guaraíta,90.26
 Adelândia,Heitoraí,85.21
 Adelândia,Indiara,82.96
 Adelândia,Inhumas,71.24
-Adelândia,Iporá,101.61
 Adelândia,Israelândia,80.02
 Adelândia,Itaberaí,58.1
 Adelândia,Itaguari,81.15
@@ -192,10 +168,8 @@ Adelândia,Jussara,96.46
 Adelândia,Moiporá,62.83
 Adelândia,Mossâmedes,32.51
 Adelândia,Nazário,35.58
-Adelândia,Nerópolis,100.59
 Adelândia,Nova Veneza,90.68
 Adelândia,Novo Brasil,72.06
-Adelândia,Ouro Verde de Goiás,105.91
 Adelândia,Palmeiras de Goiás,50.6
 Adelândia,Palminópolis,42.22
 Adelândia,Paraúna,66.54
@@ -210,7 +184,6 @@ Adelândia,Taquaral de Goiás,72.15
 Adelândia,Trindade,76.5
 Adelândia,Turvânia,22.43
 Adelândia,Varjão,90.64
-Água Fria de Goiás,Águas Lindas de Goiás,102.29
 Água Fria de Goiás,Alto Paraíso de Goiás,98.67
 Água Fria de Goiás,Colinas do Sul,97.03
 Água Fria de Goiás,Flores de Goiás,99.26
@@ -223,14 +196,12 @@ Adelândia,Varjão,90.64
 Água Fria de Goiás,Vila Boa,78.73
 Água Limpa,Aloândia,85.12
 Água Limpa,Anhanguera,63.78
-Água Limpa,Bom Jesus de Goiás,104.69
 Água Limpa,Buriti Alegre,30.36
 Água Limpa,Cachoeira Dourada,88.24
 Água Limpa,Caldas Novas,39.71
 Água Limpa,Catalão,86.83
 Água Limpa,Corumbaíba,22.09
 Água Limpa,Cristianópolis,97.86
-Água Limpa,Cromínia,109.55
 Água Limpa,Cumari,67.65
 Água Limpa,Goiandira,71.4
 Água Limpa,Goiatuba,64.44
@@ -244,39 +215,27 @@ Adelândia,Varjão,90.64
 Água Limpa,Palmelo,90.74
 Água Limpa,Panamá,63.84
 Água Limpa,Piracanjuba,90.38
-Água Limpa,Pires do Rio,100.27
 Água Limpa,Pontalina,95.49
-Água Limpa,Professor Jamil,105.31
 Água Limpa,Rio Quente,33.73
 Água Limpa,Santa Cruz de Goiás,89.71
-Água Limpa,Três Ranchos,108.42
 Água Limpa,Urutaí,90.18
 Águas Lindas de Goiás,Alexânia,43.17
 Águas Lindas de Goiás,Anápolis,95.47
-Águas Lindas de Goiás,Campo Limpo de Goiás,104.88
 Águas Lindas de Goiás,Cidade Ocidental,51.75
 Águas Lindas de Goiás,Cocalzinho de Goiás,52.87
 Águas Lindas de Goiás,Corumbá de Goiás,59.52
-Águas Lindas de Goiás,Formosa,104.1
 Águas Lindas de Goiás,Gameleira de Goiás,89.36
-Águas Lindas de Goiás,Goianésia,102.46
-Águas Lindas de Goiás,Leopoldo de Bulhões,107.3
 Águas Lindas de Goiás,Luziânia,65.12
 Águas Lindas de Goiás,Mimoso de Goiás,80.02
 Águas Lindas de Goiás,Novo Gama,41.86
-Águas Lindas de Goiás,Ouro Verde de Goiás,109.96
 Águas Lindas de Goiás,Padre Bernardo,66.85
 Águas Lindas de Goiás,Pirenópolis,73.08
 Águas Lindas de Goiás,Planaltina,79.85
 Águas Lindas de Goiás,Santo Antônio do Descoberto,20.12
-Águas Lindas de Goiás,São Francisco de Goiás,106.29
-Águas Lindas de Goiás,Silvânia,105.8
 Águas Lindas de Goiás,Valparaíso de Goiás,46.99
 Águas Lindas de Goiás,Vila Propício,72.82
 Alexânia,Anápolis,54.79
-Alexânia,Bela Vista de Goiás,109.27
 Alexânia,Bonfinópolis,76.62
-Alexânia,Brazabrantes,101.33
 Alexânia,Caldazinha,87.49
 Alexânia,Campo Limpo de Goiás,66.53
 Alexânia,Cidade Ocidental,62.23
@@ -285,9 +244,6 @@ Alexânia,Corumbá de Goiás,37.0
 Alexânia,Damolândia,93.32
 Alexânia,Gameleira de Goiás,47.06
 Alexânia,Goianápolis,72.65
-Alexânia,Goianésia,107.73
-Alexânia,Goiânia,104.94
-Alexânia,Goianira,108.26
 Alexânia,Jaraguá,95.74
 Alexânia,Jesúpolis,93.8
 Alexânia,Leopoldo de Bulhões,64.63
@@ -295,44 +251,32 @@ Alexânia,Luziânia,62.46
 Alexânia,Nerópolis,84.29
 Alexânia,Nova Veneza,92.07
 Alexânia,Novo Gama,49.85
-Alexânia,Orizona,108.01
 Alexânia,Ouro Verde de Goiás,74.85
-Alexânia,Padre Bernardo,105.4
 Alexânia,Petrolina de Goiás,88.56
 Alexânia,Pirenópolis,54.7
-Alexânia,Santa Rosa de Goiás,105.53
 Alexânia,Santo Antônio de Goiás,96.37
 Alexânia,Santo Antônio do Descoberto,31.03
 Alexânia,São Francisco de Goiás,82.36
-Alexânia,São Miguel do Passa Quatro,109.63
 Alexânia,Senador Canedo,93.32
 Alexânia,Silvânia,65.01
 Alexânia,Terezópolis de Goiás,70.19
 Alexânia,Valparaíso de Goiás,56.87
 Alexânia,Vianópolis,73.07
 Alexânia,Vila Propício,80.62
-Aloândia,Aparecida de Goiânia,104.03
 Aloândia,Aragoiânia,91.29
-Aloândia,Bela Vista de Goiás,101.25
 Aloândia,Bom Jesus de Goiás,60.99
 Aloândia,Buriti Alegre,64.78
 Aloândia,Cachoeira Dourada,84.14
 Aloândia,Caldas Novas,90.28
-Aloândia,Campestre de Goiás,109.97
 Aloândia,Castelândia,86.78
 Aloândia,Cezarina,90.0
-Aloândia,Corumbaíba,107.04
-Aloândia,Cristianópolis,101.05
 Aloândia,Cromínia,50.1
 Aloândia,Edealina,39.34
 Aloândia,Edéia,64.58
 Aloândia,Goiatuba,33.42
-Aloândia,Guapó,100.21
 Aloândia,Hidrolândia,89.29
-Aloândia,Inaciolândia,100.13
 Aloândia,Indiara,85.03
 Aloândia,Itumbiara,80.5
-Aloândia,Jandaia,103.76
 Aloândia,Joviânia,17.15
 Aloândia,Mairipotaba,48.02
 Aloândia,Marzagão,92.81
@@ -362,28 +306,19 @@ Alto Horizonte,Itapaci,86.97
 Alto Horizonte,Mara Rosa,26.69
 Alto Horizonte,Mutunópolis,52.43
 Alto Horizonte,Niquelândia,99.18
-Alto Horizonte,Nova América,109.4
-Alto Horizonte,Nova Crixás,107.58
-Alto Horizonte,Nova Glória,108.34
 Alto Horizonte,Nova Iguaçu de Goiás,11.24
-Alto Horizonte,Novo Planalto,107.78
 Alto Horizonte,Pilar de Goiás,67.75
 Alto Horizonte,Porangatu,86.76
-Alto Horizonte,Santa Rita do Novo Destino,106.82
 Alto Horizonte,Santa Tereza de Goiás,64.14
 Alto Horizonte,Santa Terezinha de Goiás,47.77
 Alto Horizonte,São Luiz do Norte,73.73
-Alto Horizonte,Trombas,100.13
 Alto Horizonte,Uirapuru,63.48
 Alto Horizonte,Uruaçu,42.07
 Alto Paraíso de Goiás,Cavalcante,37.46
 Alto Paraíso de Goiás,Colinas do Sul,61.08
 Alto Paraíso de Goiás,Flores de Goiás,61.4
 Alto Paraíso de Goiás,Iaciara,94.58
-Alto Paraíso de Goiás,Minaçu,101.68
-Alto Paraíso de Goiás,Niquelândia,108.95
 Alto Paraíso de Goiás,Nova Roma,81.35
-Alto Paraíso de Goiás,São Domingos,100.46
 Alto Paraíso de Goiás,São João d'Aliança,63.87
 Alto Paraíso de Goiás,Teresina de Goiás,47.03
 Alvorada do Norte,Buritinópolis,8.98
@@ -402,28 +337,23 @@ Amaralina,Bonópolis,64.27
 Amaralina,Campinaçu,79.82
 Amaralina,Campinorte,46.11
 Amaralina,Campos Verdes,52.44
-Amaralina,Crixás,100.26
 Amaralina,Estrela do Norte,25.06
 Amaralina,Formoso,54.5
 Amaralina,Guarinos,99.61
 Amaralina,Hidrolina,91.03
 Amaralina,Mara Rosa,16.32
 Amaralina,Montividiu do Norte,91.91
-Amaralina,Mundo Novo,107.68
 Amaralina,Mutunópolis,21.62
-Amaralina,Niquelândia,108.48
 Amaralina,Nova Iguaçu de Goiás,41.56
 Amaralina,Novo Planalto,79.07
 Amaralina,Pilar de Goiás,97.93
 Amaralina,Porangatu,56.13
 Amaralina,Santa Tereza de Goiás,38.34
 Amaralina,Santa Terezinha de Goiás,72.01
-Amaralina,São Luiz do Norte,104.27
 Amaralina,Trombas,75.66
 Amaralina,Uirapuru,78.29
 Amaralina,Uruaçu,68.84
 Americano do Brasil,Anicuns,23.77
-Americano do Brasil,Aparecida de Goiânia,100.76
 Americano do Brasil,Araçu,34.35
 Americano do Brasil,Aragoiânia,92.73
 Americano do Brasil,Aurilândia,69.81
@@ -433,7 +363,6 @@ Americano do Brasil,Buriti de Goiás,48.41
 Americano do Brasil,Cachoeira de Goiás,84.24
 Americano do Brasil,Campestre de Goiás,64.59
 Americano do Brasil,Campo Limpo de Goiás,95.52
-Americano do Brasil,Carmo do Rio Verde,103.94
 Americano do Brasil,Caturaí,56.48
 Americano do Brasil,Cezarina,83.09
 Americano do Brasil,Córrego do Ouro,60.71
@@ -441,7 +370,6 @@ Americano do Brasil,Damolândia,66.19
 Americano do Brasil,Faina,98.18
 Americano do Brasil,Fazenda Nova,85.22
 Americano do Brasil,Firminópolis,49.89
-Americano do Brasil,Goianápolis,106.34
 Americano do Brasil,Goiânia,90.63
 Americano do Brasil,Goianira,65.2
 Americano do Brasil,Goiás,39.14
@@ -460,11 +388,8 @@ Americano do Brasil,Itauçu,40.1
 Americano do Brasil,Ivolândia,94.57
 Americano do Brasil,Jandaia,90.26
 Americano do Brasil,Jaraguá,88.77
-Americano do Brasil,Jaupaci,103.65
 Americano do Brasil,Jesúpolis,73.29
-Americano do Brasil,Jussara,103.7
 Americano do Brasil,Moiporá,86.93
-Americano do Brasil,Morro Agudo de Goiás,104.03
 Americano do Brasil,Mossâmedes,28.4
 Americano do Brasil,Nazário,38.19
 Americano do Brasil,Nerópolis,82.91
@@ -475,7 +400,6 @@ Americano do Brasil,Palmeiras de Goiás,61.81
 Americano do Brasil,Palminópolis,63.21
 Americano do Brasil,Paraúna,91.81
 Americano do Brasil,Petrolina de Goiás,71.17
-Americano do Brasil,Rianápolis,102.83
 Americano do Brasil,Sanclerlândia,35.67
 Americano do Brasil,Santa Bárbara de Goiás,46.99
 Americano do Brasil,Santa Rosa de Goiás,55.32
@@ -483,8 +407,6 @@ Americano do Brasil,Santo Antônio de Goiás,76.27
 Americano do Brasil,São Francisco de Goiás,85.28
 Americano do Brasil,São João da Paraúna,77.18
 Americano do Brasil,São Luís de Montes Belos,51.24
-Americano do Brasil,São Patrício,101.78
-Americano do Brasil,Senador Canedo,107.81
 Americano do Brasil,Taquaral de Goiás,46.17
 Americano do Brasil,Terezópolis de Goiás,97.71
 Americano do Brasil,Trindade,68.68
@@ -502,25 +424,20 @@ Amorinópolis,Fazenda Nova,58.52
 Amorinópolis,Firminópolis,84.06
 Amorinópolis,Iporá,19.69
 Amorinópolis,Israelândia,38.72
-Amorinópolis,Itapirapuã,102.28
 Amorinópolis,Ivolândia,31.99
 Amorinópolis,Jaupaci,50.95
 Amorinópolis,Jussara,86.7
 Amorinópolis,Moiporá,38.45
 Amorinópolis,Montes Claros de Goiás,75.2
 Amorinópolis,Montividiu,92.56
-Amorinópolis,Mossâmedes,108.45
 Amorinópolis,Novo Brasil,76.57
 Amorinópolis,Palestina de Goiás,48.75
-Amorinópolis,Palminópolis,100.65
 Amorinópolis,Paraúna,77.78
 Amorinópolis,Piranhas,80.78
 Amorinópolis,Sanclerlândia,95.26
 Amorinópolis,Santa Fé de Goiás,94.38
 Amorinópolis,São João da Paraúna,75.95
 Amorinópolis,São Luís de Montes Belos,77.37
-Amorinópolis,Turvânia,101.76
-Anápolis,Anicuns,108.66
 Anápolis,Aparecida de Goiânia,63.01
 Anápolis,Araçu,77.68
 Anápolis,Aragoiânia,83.34
@@ -534,7 +451,6 @@ Anápolis,Campo Limpo de Goiás,14.97
 Anápolis,Caturaí,59.11
 Anápolis,Cocalzinho de Goiás,62.65
 Anápolis,Corumbá de Goiás,47.35
-Anápolis,Cristianópolis,100.39
 Anápolis,Damolândia,44.53
 Anápolis,Gameleira de Goiás,37.18
 Anápolis,Goianápolis,21.55
@@ -550,17 +466,11 @@ Anápolis,Itauçu,71.59
 Anápolis,Jaraguá,75.84
 Anápolis,Jesúpolis,61.67
 Anápolis,Leopoldo de Bulhões,39.35
-Anápolis,Luziânia,107.38
-Anápolis,Nazário,102.95
 Anápolis,Nerópolis,30.01
 Anápolis,Nova Veneza,39.09
-Anápolis,Novo Gama,101.8
-Anápolis,Orizona,105.08
 Anápolis,Ouro Verde de Goiás,28.5
 Anápolis,Petrolina de Goiás,48.35
-Anápolis,Piracanjuba,108.51
 Anápolis,Pirenópolis,53.09
-Anápolis,Professor Jamil,107.06
 Anápolis,Santa Bárbara de Goiás,83.67
 Anápolis,Santa Rosa de Goiás,63.95
 Anápolis,Santo Antônio de Goiás,41.69
@@ -572,8 +482,6 @@ Anápolis,Silvânia,52.08
 Anápolis,Taquaral de Goiás,75.98
 Anápolis,Terezópolis de Goiás,15.4
 Anápolis,Trindade,67.87
-Anápolis,Valparaíso de Goiás,108.38
-Anápolis,Varjão,107.75
 Anápolis,Vianópolis,65.37
 Anápolis,Vila Propício,97.47
 Anhanguera,Buriti Alegre,89.3
@@ -585,7 +493,6 @@ Anhanguera,Cumari,10.64
 Anhanguera,Davinópolis,73.0
 Anhanguera,Goiandira,26.18
 Anhanguera,Ipameri,68.41
-Anhanguera,Itumbiara,105.38
 Anhanguera,Marzagão,59.18
 Anhanguera,Nova Aurora,30.71
 Anhanguera,Ouvidor,42.32
@@ -597,11 +504,9 @@ Anicuns,Araçu,32.31
 Anicuns,Aragoiânia,73.77
 Anicuns,Aurilândia,58.55
 Anicuns,Avelinópolis,21.73
-Anicuns,Bonfinópolis,107.95
 Anicuns,Brazabrantes,61.49
 Anicuns,Buriti de Goiás,59.19
 Anicuns,Cachoeira de Goiás,76.23
-Anicuns,Caldazinha,105.98
 Anicuns,Campestre de Goiás,43.67
 Anicuns,Campo Limpo de Goiás,94.88
 Anicuns,Caturaí,49.97
@@ -611,7 +516,6 @@ Anicuns,Damolândia,67.99
 Anicuns,Edéia,97.51
 Anicuns,Fazenda Nova,92.55
 Anicuns,Firminópolis,38.62
-Anicuns,Goianápolis,100.17
 Anicuns,Goiânia,78.32
 Anicuns,Goianira,57.11
 Anicuns,Goiás,62.03
@@ -621,18 +525,14 @@ Anicuns,Heitoraí,84.11
 Anicuns,Hidrolândia,95.93
 Anicuns,Indiara,75.05
 Anicuns,Inhumas,50.55
-Anicuns,Israelândia,102.39
 Anicuns,Itaberaí,52.05
 Anicuns,Itaguari,71.57
 Anicuns,Itaguaru,86.07
 Anicuns,Itapirapuã,99.54
-Anicuns,Itapuranga,100.48
 Anicuns,Itauçu,47.39
 Anicuns,Ivolândia,89.79
 Anicuns,Jandaia,67.81
-Anicuns,Jaraguá,103.67
 Anicuns,Jesúpolis,85.02
-Anicuns,Mairipotaba,105.39
 Anicuns,Moiporá,83.34
 Anicuns,Mossâmedes,46.41
 Anicuns,Nazário,15.52
@@ -668,7 +568,6 @@ Aparecida de Goiânia,Campestre de Goiás,48.13
 Aparecida de Goiânia,Campo Limpo de Goiás,60.49
 Aparecida de Goiânia,Caturaí,49.3
 Aparecida de Goiânia,Cezarina,58.76
-Aparecida de Goiânia,Corumbá de Goiás,109.85
 Aparecida de Goiânia,Cristianópolis,71.52
 Aparecida de Goiânia,Cromínia,53.98
 Aparecida de Goiânia,Damolândia,64.08
@@ -682,21 +581,16 @@ Aparecida de Goiânia,Guapó,30.63
 Aparecida de Goiânia,Hidrolândia,16.03
 Aparecida de Goiânia,Indiara,86.25
 Aparecida de Goiânia,Inhumas,57.7
-Aparecida de Goiânia,Itaberaí,107.02
-Aparecida de Goiânia,Itaguari,107.39
 Aparecida de Goiânia,Itauçu,78.81
 Aparecida de Goiânia,Jandaia,98.88
 Aparecida de Goiânia,Jesúpolis,97.84
 Aparecida de Goiânia,Leopoldo de Bulhões,58.14
 Aparecida de Goiânia,Mairipotaba,59.06
-Aparecida de Goiânia,Morrinhos,102.68
 Aparecida de Goiânia,Nazário,72.64
 Aparecida de Goiânia,Nerópolis,46.23
 Aparecida de Goiânia,Nova Veneza,50.62
-Aparecida de Goiânia,Orizona,103.86
 Aparecida de Goiânia,Ouro Verde de Goiás,67.14
 Aparecida de Goiânia,Palmeiras de Goiás,72.09
-Aparecida de Goiânia,Palmelo,103.82
 Aparecida de Goiânia,Palminópolis,97.8
 Aparecida de Goiânia,Petrolina de Goiás,80.96
 Aparecida de Goiânia,Piracanjuba,58.93
@@ -718,11 +612,9 @@ Aparecida de Goiânia,Varjão,48.06
 Aparecida de Goiânia,Vianópolis,78.32
 Aparecida do Rio Doce,Cachoeira Alta,56.46
 Aparecida do Rio Doce,Caçu,29.57
-Aparecida do Rio Doce,Castelândia,102.69
 Aparecida do Rio Doce,Itajá,95.65
 Aparecida do Rio Doce,Itarumã,56.29
 Aparecida do Rio Doce,Jataí,75.84
-Aparecida do Rio Doce,Lagoa Santa,102.26
 Aparecida do Rio Doce,Maurilândia,93.06
 Aparecida do Rio Doce,Montividiu,94.56
 Aparecida do Rio Doce,Paranaiguara,86.62
@@ -730,10 +622,7 @@ Aparecida do Rio Doce,Quirinópolis,75.49
 Aparecida do Rio Doce,Rio Verde,60.97
 Aparecida do Rio Doce,Santa Helena de Goiás,79.43
 Aparecida do Rio Doce,Santo Antônio da Barra,98.4
-Aparecida do Rio Doce,São Simão,100.74
 Aparecida do Rio Doce,Serranópolis,85.21
-Aparecida do Rio Doce,Turvelândia,102.44
-Aporé,Cachoeira Alta,105.46
 Aporé,Caçu,94.43
 Aporé,Chapadão do Céu,90.18
 Aporé,Itajá,41.04
@@ -743,19 +632,15 @@ Aporé,Serranópolis,72.82
 Araçu,Aragoiânia,66.24
 Araçu,Aurilândia,90.85
 Araçu,Avelinópolis,14.85
-Araçu,Bela Vista de Goiás,103.34
 Araçu,Bonfinópolis,81.95
 Araçu,Brazabrantes,32.37
 Araçu,Buriti de Goiás,82.42
-Araçu,Cachoeira de Goiás,108.46
 Araçu,Caldazinha,82.47
 Araçu,Campestre de Goiás,45.18
 Araçu,Campo Limpo de Goiás,63.4
 Araçu,Caturaí,22.22
 Araçu,Cezarina,69.19
 Araçu,Córrego do Ouro,93.11
-Araçu,Corumbá de Goiás,104.47
-Araçu,Cromínia,108.46
 Araçu,Damolândia,35.71
 Araçu,Firminópolis,70.91
 Araçu,Goianápolis,72.12
@@ -776,8 +661,6 @@ Araçu,Itauçu,18.6
 Araçu,Jandaia,91.48
 Araçu,Jaraguá,76.61
 Araçu,Jesúpolis,55.94
-Araçu,Leopoldo de Bulhões,104.15
-Araçu,Mairipotaba,106.6
 Araçu,Mossâmedes,62.51
 Araçu,Nazário,32.92
 Araçu,Nerópolis,49.12
@@ -785,11 +668,8 @@ Araçu,Nova Veneza,38.82
 Araçu,Ouro Verde de Goiás,54.12
 Araçu,Palmeiras de Goiás,56.18
 Araçu,Palminópolis,70.86
-Araçu,Paraúna,104.87
 Araçu,Petrolina de Goiás,46.71
 Araçu,Pirenópolis,95.45
-Araçu,Professor Jamil,109.67
-Araçu,Rianápolis,102.87
 Araçu,Sanclerlândia,69.75
 Araçu,Santa Bárbara de Goiás,23.97
 Araçu,Santa Rosa de Goiás,36.16
@@ -833,11 +713,8 @@ Aragoiânia,Guapó,12.75
 Aragoiânia,Hidrolândia,24.27
 Aragoiânia,Indiara,62.72
 Aragoiânia,Inhumas,61.15
-Aragoiânia,Itaberaí,105.89
 Aragoiânia,Itauçu,80.39
 Aragoiânia,Jandaia,75.8
-Aragoiânia,Jesúpolis,107.07
-Aragoiânia,Joviânia,101.0
 Aragoiânia,Leopoldo de Bulhões,81.66
 Aragoiânia,Mairipotaba,43.46
 Aragoiânia,Morrinhos,98.62
@@ -847,7 +724,6 @@ Aragoiânia,Nova Veneza,61.55
 Aragoiânia,Ouro Verde de Goiás,81.4
 Aragoiânia,Palmeiras de Goiás,52.01
 Aragoiânia,Palminópolis,77.45
-Aragoiânia,Paraúna,106.54
 Aragoiânia,Petrolina de Goiás,91.05
 Aragoiânia,Piracanjuba,63.3
 Aragoiânia,Pontalina,68.25
@@ -855,8 +731,6 @@ Aragoiânia,Professor Jamil,43.66
 Aragoiânia,Santa Bárbara de Goiás,45.86
 Aragoiânia,Santa Rosa de Goiás,91.84
 Aragoiânia,Santo Antônio de Goiás,49.72
-Aragoiânia,São João da Paraúna,102.88
-Aragoiânia,São Luís de Montes Belos,107.52
 Aragoiânia,São Miguel do Passa Quatro,85.18
 Aragoiânia,Senador Canedo,43.97
 Aragoiânia,Silvânia,93.53
@@ -865,17 +739,12 @@ Aragoiânia,Terezópolis de Goiás,69.32
 Aragoiânia,Trindade,28.98
 Aragoiânia,Turvânia,80.44
 Aragoiânia,Varjão,24.86
-Aragoiânia,Vianópolis,100.91
 Aragoiânia,Vicentinópolis,99.11
 Araguapaz,Aruanã,51.43
 Araguapaz,Britânia,59.2
-Araguapaz,Carmo do Rio Verde,103.34
 Araguapaz,Crixás,93.44
 Araguapaz,Faina,49.04
-Araguapaz,Goiás,107.46
 Araguapaz,Guaraíta,86.99
-Araguapaz,Guarinos,107.81
-Araguapaz,Ipiranga de Goiás,103.63
 Araguapaz,Itapirapuã,81.16
 Araguapaz,Itapuranga,89.92
 Araguapaz,Jussara,89.79
@@ -883,15 +752,11 @@ Araguapaz,Matrinchã,40.09
 Araguapaz,Morro Agudo de Goiás,66.8
 Araguapaz,Mozarlândia,38.93
 Araguapaz,Nova América,79.44
-Araguapaz,Novo Brasil,104.92
 Araguapaz,Rubiataba,89.09
 Araguapaz,Santa Fé de Goiás,90.57
 Araguapaz,São Patrício,91.92
-Arenópolis,Baliza,106.96
 Arenópolis,Bom Jardim de Goiás,68.69
-Arenópolis,Cachoeira de Goiás,101.91
 Arenópolis,Caiapônia,68.88
-Arenópolis,Córrego do Ouro,107.83
 Arenópolis,Diorama,36.33
 Arenópolis,Doverlândia,89.42
 Arenópolis,Fazenda Nova,85.99
@@ -908,7 +773,6 @@ Arenópolis,Piranhas,28.88
 Arenópolis,Santa Fé de Goiás,83.96
 Aruanã,Britânia,37.41
 Aruanã,Faina,96.61
-Aruanã,Jussara,107.89
 Aruanã,Matrinchã,67.54
 Aruanã,Mozarlândia,57.38
 Aruanã,Santa Fé de Goiás,94.54
@@ -916,7 +780,6 @@ Aurilândia,Avelinópolis,78.81
 Aurilândia,Buriti de Goiás,55.5
 Aurilândia,Cachoeira de Goiás,19.44
 Aurilândia,Campestre de Goiás,82.45
-Aurilândia,Caturaí,106.62
 Aurilândia,Cezarina,80.25
 Aurilândia,Córrego do Ouro,43.84
 Aurilândia,Diorama,97.69
@@ -924,14 +787,10 @@ Aurilândia,Edéia,93.12
 Aurilândia,Fazenda Nova,64.32
 Aurilândia,Firminópolis,20.33
 Aurilândia,Goiás,89.67
-Aurilândia,Guapó,100.42
 Aurilândia,Indiara,72.23
-Aurilândia,Inhumas,108.62
 Aurilândia,Iporá,74.53
 Aurilândia,Israelândia,62.25
-Aurilândia,Itaberaí,101.31
 Aurilândia,Itapirapuã,96.53
-Aurilândia,Itauçu,105.18
 Aurilândia,Ivolândia,36.0
 Aurilândia,Jandaia,53.39
 Aurilândia,Jaupaci,76.06
@@ -948,10 +807,8 @@ Aurilândia,Santa Bárbara de Goiás,82.74
 Aurilândia,Santo Antônio da Barra,99.64
 Aurilândia,São João da Paraúna,16.14
 Aurilândia,São Luís de Montes Belos,19.92
-Aurilândia,Trindade,103.52
 Aurilândia,Turvânia,35.6
 Aurilândia,Varjão,97.71
-Avelinópolis,Bela Vista de Goiás,102.45
 Avelinópolis,Bonfinópolis,86.5
 Avelinópolis,Brazabrantes,39.87
 Avelinópolis,Buriti de Goiás,78.57
@@ -964,7 +821,6 @@ Avelinópolis,Cezarina,56.14
 Avelinópolis,Córrego do Ouro,86.76
 Avelinópolis,Cromínia,99.77
 Avelinópolis,Damolândia,48.31
-Avelinópolis,Edealina,106.84
 Avelinópolis,Edéia,98.82
 Avelinópolis,Firminópolis,59.5
 Avelinópolis,Goianápolis,78.46
@@ -980,14 +836,11 @@ Avelinópolis,Inhumas,29.92
 Avelinópolis,Itaberaí,49.92
 Avelinópolis,Itaguari,63.16
 Avelinópolis,Itaguaru,80.1
-Avelinópolis,Itapuranga,102.86
 Avelinópolis,Itauçu,33.31
 Avelinópolis,Jandaia,76.64
 Avelinópolis,Jaraguá,91.41
 Avelinópolis,Jesúpolis,70.77
-Avelinópolis,Leopoldo de Bulhões,109.51
 Avelinópolis,Mairipotaba,96.63
-Avelinópolis,Moiporá,104.94
 Avelinópolis,Mossâmedes,61.82
 Avelinópolis,Nazário,18.27
 Avelinópolis,Nerópolis,57.5
@@ -997,8 +850,6 @@ Avelinópolis,Palmeiras de Goiás,41.46
 Avelinópolis,Palminópolis,56.49
 Avelinópolis,Paraúna,90.81
 Avelinópolis,Petrolina de Goiás,60.99
-Avelinópolis,Pirenópolis,109.5
-Avelinópolis,Professor Jamil,102.77
 Avelinópolis,Sanclerlândia,66.36
 Avelinópolis,Santa Bárbara de Goiás,13.37
 Avelinópolis,Santa Rosa de Goiás,51.0
@@ -1011,7 +862,6 @@ Avelinópolis,Taquaral de Goiás,49.0
 Avelinópolis,Terezópolis de Goiás,72.78
 Avelinópolis,Trindade,34.93
 Avelinópolis,Turvânia,43.51
-Avelinópolis,Uruana,107.9
 Avelinópolis,Varjão,65.88
 Baliza,Bom Jardim de Goiás,39.15
 Baliza,Doverlândia,62.64
@@ -1020,17 +870,14 @@ Barro Alto,Campinorte,77.06
 Barro Alto,Carmo do Rio Verde,96.09
 Barro Alto,Ceres,83.3
 Barro Alto,Cocalzinho de Goiás,92.92
-Barro Alto,Corumbá de Goiás,107.11
 Barro Alto,Goianésia,44.46
 Barro Alto,Guarinos,89.1
 Barro Alto,Hidrolina,65.32
 Barro Alto,Ipiranga de Goiás,84.76
 Barro Alto,Itapaci,69.04
 Barro Alto,Jaraguá,98.71
-Barro Alto,Mara Rosa,109.64
 Barro Alto,Mimoso de Goiás,80.85
 Barro Alto,Niquelândia,73.59
-Barro Alto,Nova América,106.16
 Barro Alto,Nova Glória,74.14
 Barro Alto,Nova Iguaçu de Goiás,91.39
 Barro Alto,Padre Bernardo,70.55
@@ -1041,11 +888,8 @@ Barro Alto,Rianápolis,83.85
 Barro Alto,Rubiataba,98.66
 Barro Alto,Santa Isabel,66.56
 Barro Alto,Santa Rita do Novo Destino,29.52
-Barro Alto,Santa Terezinha de Goiás,104.54
 Barro Alto,São Luiz do Norte,46.6
-Barro Alto,São Patrício,106.54
 Barro Alto,Uruaçu,55.07
-Barro Alto,Uruana,102.36
 Barro Alto,Vila Propício,54.38
 Bela Vista de Goiás,Bonfinópolis,39.16
 Bela Vista de Goiás,Brazabrantes,75.95
@@ -1069,14 +913,11 @@ Bela Vista de Goiás,Inhumas,89.39
 Bela Vista de Goiás,Leopoldo de Bulhões,44.83
 Bela Vista de Goiás,Mairipotaba,67.87
 Bela Vista de Goiás,Morrinhos,86.53
-Bela Vista de Goiás,Nazário,108.06
 Bela Vista de Goiás,Nerópolis,69.12
 Bela Vista de Goiás,Nova Veneza,77.23
 Bela Vista de Goiás,Orizona,70.0
 Bela Vista de Goiás,Ouro Verde de Goiás,87.45
-Bela Vista de Goiás,Palmeiras de Goiás,105.11
 Bela Vista de Goiás,Palmelo,68.46
-Bela Vista de Goiás,Petrolina de Goiás,105.34
 Bela Vista de Goiás,Piracanjuba,37.65
 Bela Vista de Goiás,Pires do Rio,80.65
 Bela Vista de Goiás,Pontalina,81.09
@@ -1109,14 +950,12 @@ Bom Jesus de Goiás,Gouvelândia,57.74
 Bom Jesus de Goiás,Inaciolândia,39.85
 Bom Jesus de Goiás,Itumbiara,59.31
 Bom Jesus de Goiás,Joviânia,47.9
-Bom Jesus de Goiás,Mairipotaba,105.65
 Bom Jesus de Goiás,Maurilândia,68.92
 Bom Jesus de Goiás,Morrinhos,85.98
 Bom Jesus de Goiás,Panamá,40.9
 Bom Jesus de Goiás,Pontalina,83.17
 Bom Jesus de Goiás,Porteirão,63.49
 Bom Jesus de Goiás,Quirinópolis,79.65
-Bom Jesus de Goiás,Santa Helena de Goiás,101.3
 Bom Jesus de Goiás,Turvelândia,72.13
 Bom Jesus de Goiás,Vicentinópolis,54.37
 Bonfinópolis,Brazabrantes,49.92
@@ -1137,9 +976,7 @@ Bonfinópolis,Goianira,51.44
 Bonfinópolis,Guapó,65.42
 Bonfinópolis,Hidrolândia,47.64
 Bonfinópolis,Inhumas,64.09
-Bonfinópolis,Itaguari,103.89
 Bonfinópolis,Itauçu,83.19
-Bonfinópolis,Jaraguá,104.04
 Bonfinópolis,Jesúpolis,86.42
 Bonfinópolis,Leopoldo de Bulhões,23.31
 Bonfinópolis,Mairipotaba,94.22
@@ -1148,18 +985,15 @@ Bonfinópolis,Nerópolis,36.52
 Bonfinópolis,Nova Veneza,46.83
 Bonfinópolis,Orizona,84.58
 Bonfinópolis,Ouro Verde de Goiás,50.85
-Bonfinópolis,Palmeiras de Goiás,104.58
 Bonfinópolis,Palmelo,97.22
 Bonfinópolis,Petrolina de Goiás,70.35
 Bonfinópolis,Piracanjuba,76.36
 Bonfinópolis,Pirenópolis,85.24
-Bonfinópolis,Pires do Rio,105.36
 Bonfinópolis,Professor Jamil,76.47
 Bonfinópolis,Santa Bárbara de Goiás,78.36
 Bonfinópolis,Santa Cruz de Goiás,92.96
 Bonfinópolis,Santa Rosa de Goiás,82.21
 Bonfinópolis,Santo Antônio de Goiás,40.05
-Bonfinópolis,Santo Antônio do Descoberto,106.28
 Bonfinópolis,São Francisco de Goiás,83.27
 Bonfinópolis,São Miguel do Passa Quatro,58.48
 Bonfinópolis,Senador Canedo,17.14
@@ -1169,11 +1003,8 @@ Bonfinópolis,Terezópolis de Goiás,27.79
 Bonfinópolis,Trindade,56.71
 Bonfinópolis,Varjão,85.81
 Bonfinópolis,Vianópolis,49.41
-Bonópolis,Campinorte,103.9
 Bonópolis,Campos Verdes,70.07
-Bonópolis,Crixás,102.52
 Bonópolis,Estrela do Norte,83.94
-Bonópolis,Formoso,100.85
 Bonópolis,Mara Rosa,80.46
 Bonópolis,Mundo Novo,53.19
 Bonópolis,Mutunópolis,58.92
@@ -1203,13 +1034,11 @@ Brazabrantes,Goiás,97.5
 Brazabrantes,Guapó,47.37
 Brazabrantes,Heitoraí,91.83
 Brazabrantes,Hidrolândia,61.82
-Brazabrantes,Indiara,101.6
 Brazabrantes,Inhumas,14.24
 Brazabrantes,Itaberaí,63.73
 Brazabrantes,Itaguari,61.43
 Brazabrantes,Itaguaru,79.28
 Brazabrantes,Itauçu,34.66
-Brazabrantes,Jandaia,106.23
 Brazabrantes,Jaraguá,75.28
 Brazabrantes,Jesúpolis,53.36
 Brazabrantes,Leopoldo de Bulhões,71.81
@@ -1222,28 +1051,22 @@ Brazabrantes,Ouro Verde de Goiás,31.07
 Brazabrantes,Palmeiras de Goiás,70.95
 Brazabrantes,Palminópolis,92.35
 Brazabrantes,Petrolina de Goiás,37.22
-Brazabrantes,Piracanjuba,104.82
 Brazabrantes,Pirenópolis,78.81
 Brazabrantes,Professor Jamil,92.6
-Brazabrantes,Sanclerlândia,102.12
 Brazabrantes,Santa Bárbara de Goiás,36.61
 Brazabrantes,Santa Rosa de Goiás,39.99
 Brazabrantes,Santo Antônio de Goiás,10.11
 Brazabrantes,São Francisco de Goiás,57.47
-Brazabrantes,São Luís de Montes Belos,105.68
-Brazabrantes,São Miguel do Passa Quatro,104.2
 Brazabrantes,Senador Canedo,44.26
 Brazabrantes,Silvânia,86.84
 Brazabrantes,Taquaral de Goiás,47.83
 Brazabrantes,Terezópolis de Goiás,32.92
 Brazabrantes,Trindade,27.33
 Brazabrantes,Turvânia,82.6
-Brazabrantes,Uruana,108.14
 Brazabrantes,Varjão,73.6
 Brazabrantes,Vianópolis,99.05
 Britânia,Faina,88.54
 Britânia,Itapirapuã,87.23
-Britânia,Jaupaci,106.3
 Britânia,Jussara,76.08
 Britânia,Matrinchã,49.29
 Britânia,Montes Claros de Goiás,88.59
@@ -1253,29 +1076,19 @@ Britânia,Santa Fé de Goiás,58.54
 Buriti Alegre,Cachoeira Dourada,60.15
 Buriti Alegre,Caldas Novas,62.06
 Buriti Alegre,Corumbaíba,50.49
-Buriti Alegre,Cromínia,101.07
 Buriti Alegre,Cumari,94.99
-Buriti Alegre,Edealina,103.28
-Buriti Alegre,Goiandira,100.69
 Buriti Alegre,Goiatuba,37.2
-Buriti Alegre,Inaciolândia,107.38
-Buriti Alegre,Ipameri,104.19
 Buriti Alegre,Itumbiara,35.42
 Buriti Alegre,Joviânia,71.75
-Buriti Alegre,Mairipotaba,104.86
 Buriti Alegre,Marzagão,45.55
 Buriti Alegre,Morrinhos,45.5
 Buriti Alegre,Nova Aurora,83.44
 Buriti Alegre,Panamá,33.54
 Buriti Alegre,Piracanjuba,92.97
 Buriti Alegre,Pontalina,80.94
-Buriti Alegre,Professor Jamil,101.08
 Buriti Alegre,Rio Quente,49.39
-Buriti Alegre,Santa Cruz de Goiás,108.96
 Buriti Alegre,Vicentinópolis,92.58
 Buriti de Goiás,Cachoeira de Goiás,58.56
-Buriti de Goiás,Campestre de Goiás,101.74
-Buriti de Goiás,Caturaí,104.22
 Buriti de Goiás,Córrego do Ouro,17.92
 Buriti de Goiás,Diorama,88.2
 Buriti de Goiás,Faina,81.71
@@ -1284,7 +1097,6 @@ Buriti de Goiás,Firminópolis,46.32
 Buriti de Goiás,Goiás,41.34
 Buriti de Goiás,Guaraíta,76.42
 Buriti de Goiás,Heitoraí,82.34
-Buriti de Goiás,Inhumas,101.32
 Buriti de Goiás,Iporá,78.91
 Buriti de Goiás,Israelândia,53.25
 Buriti de Goiás,Itaberaí,68.98
@@ -1294,13 +1106,10 @@ Buriti de Goiás,Itapirapuã,44.25
 Buriti de Goiás,Itapuranga,85.91
 Buriti de Goiás,Itauçu,87.53
 Buriti de Goiás,Ivolândia,60.62
-Buriti de Goiás,Jandaia,101.27
 Buriti de Goiás,Jaupaci,55.6
 Buriti de Goiás,Jussara,58.23
 Buriti de Goiás,Matrinchã,89.45
 Buriti de Goiás,Moiporá,52.21
-Buriti de Goiás,Montes Claros de Goiás,105.17
-Buriti de Goiás,Morro Agudo de Goiás,103.79
 Buriti de Goiás,Mossâmedes,23.93
 Buriti de Goiás,Nazário,73.61
 Buriti de Goiás,Novo Brasil,34.24
@@ -1310,12 +1119,10 @@ Buriti de Goiás,Paraúna,85.32
 Buriti de Goiás,Sanclerlândia,12.73
 Buriti de Goiás,Santa Bárbara de Goiás,89.71
 Buriti de Goiás,Santa Fé de Goiás,85.39
-Buriti de Goiás,Santa Rosa de Goiás,100.42
 Buriti de Goiás,São João da Paraúna,70.47
 Buriti de Goiás,São Luís de Montes Belos,38.51
 Buriti de Goiás,Taquaral de Goiás,89.39
 Buriti de Goiás,Turvânia,57.45
-Buriti de Goiás,Uruana,109.78
 Buritinópolis,Damianópolis,26.39
 Buritinópolis,Flores de Goiás,68.37
 Buritinópolis,Guarani de Goiás,60.11
@@ -1323,7 +1130,6 @@ Buritinópolis,Iaciara,48.39
 Buritinópolis,Mambaí,31.35
 Buritinópolis,Nova Roma,96.25
 Buritinópolis,Posse,43.69
-Buritinópolis,São Domingos,101.79
 Buritinópolis,Simolândia,8.42
 Buritinópolis,Sítio d'Abadia,39.59
 Buritinópolis,Vila Boa,93.27
@@ -1331,22 +1137,16 @@ Cabeceiras,Formosa,52.58
 Cabeceiras,Planaltina,82.66
 Cabeceiras,Vila Boa,85.66
 Cachoeira Alta,Caçu,30.09
-Cachoeira Alta,Castelândia,107.9
 Cachoeira Alta,Gouvelândia,92.15
-Cachoeira Alta,Inaciolândia,105.11
 Cachoeira Alta,Itajá,72.26
 Cachoeira Alta,Itarumã,42.67
 Cachoeira Alta,Lagoa Santa,67.09
-Cachoeira Alta,Maurilândia,108.55
 Cachoeira Alta,Paranaiguara,34.84
 Cachoeira Alta,Quirinópolis,62.24
-Cachoeira Alta,Rio Verde,107.83
 Cachoeira Alta,São Simão,49.15
-Cachoeira de Goiás,Campestre de Goiás,101.87
 Cachoeira de Goiás,Cezarina,98.76
 Cachoeira de Goiás,Córrego do Ouro,42.57
 Cachoeira de Goiás,Diorama,80.63
-Cachoeira de Goiás,Edéia,107.11
 Cachoeira de Goiás,Fazenda Nova,55.21
 Cachoeira de Goiás,Firminópolis,37.67
 Cachoeira de Goiás,Goiás,97.51
@@ -1359,8 +1159,6 @@ Cachoeira de Goiás,Jandaia,68.32
 Cachoeira de Goiás,Jaupaci,63.08
 Cachoeira de Goiás,Jussara,91.77
 Cachoeira de Goiás,Moiporá,16.63
-Cachoeira de Goiás,Montes Claros de Goiás,108.55
-Cachoeira de Goiás,Montividiu,103.28
 Cachoeira de Goiás,Mossâmedes,75.67
 Cachoeira de Goiás,Nazário,81.95
 Cachoeira de Goiás,Novo Brasil,70.64
@@ -1369,48 +1167,35 @@ Cachoeira de Goiás,Palmeiras de Goiás,78.46
 Cachoeira de Goiás,Palminópolis,53.17
 Cachoeira de Goiás,Paraúna,37.83
 Cachoeira de Goiás,Sanclerlândia,62.9
-Cachoeira de Goiás,Santa Bárbara de Goiás,101.8
 Cachoeira de Goiás,Santo Antônio da Barra,99.53
 Cachoeira de Goiás,São João da Paraúna,30.18
 Cachoeira de Goiás,São Luís de Montes Belos,33.16
 Cachoeira de Goiás,Turvânia,54.53
 Cachoeira Dourada,Castelândia,88.31
-Cachoeira Dourada,Corumbaíba,103.81
 Cachoeira Dourada,Goiatuba,54.14
 Cachoeira Dourada,Gouvelândia,65.48
 Cachoeira Dourada,Inaciolândia,54.02
 Cachoeira Dourada,Itumbiara,28.8
 Cachoeira Dourada,Joviânia,77.53
-Cachoeira Dourada,Marzagão,104.43
-Cachoeira Dourada,Maurilândia,107.51
 Cachoeira Dourada,Morrinhos,92.39
 Cachoeira Dourada,Panamá,36.53
-Cachoeira Dourada,Pontalina,107.17
-Cachoeira Dourada,Porteirão,104.27
-Cachoeira Dourada,Quirinópolis,103.25
-Cachoeira Dourada,Rio Quente,108.64
 Cachoeira Dourada,Vicentinópolis,90.7
 Caçu,Itajá,71.51
 Caçu,Itarumã,32.2
 Caçu,Jataí,97.91
 Caçu,Lagoa Santa,74.84
-Caçu,Maurilândia,106.29
 Caçu,Paranaiguara,64.02
 Caçu,Quirinópolis,72.58
 Caçu,Rio Verde,88.23
-Caçu,Santa Helena de Goiás,100.56
 Caçu,São Simão,78.49
 Caçu,Serranópolis,91.53
 Caiapônia,Diorama,99.61
 Caiapônia,Doverlândia,60.23
 Caiapônia,Iporá,93.2
-Caiapônia,Jataí,103.23
-Caiapônia,Mineiros,104.28
 Caiapônia,Montividiu,86.82
 Caiapônia,Palestina de Goiás,38.03
 Caiapônia,Perolândia,69.16
 Caiapônia,Piranhas,58.74
-Caiapônia,Portelândia,102.73
 Caldas Novas,Campo Alegre de Goiás,90.61
 Caldas Novas,Catalão,85.91
 Caldas Novas,Corumbaíba,44.67
@@ -1419,11 +1204,8 @@ Caldas Novas,Cromínia,94.77
 Caldas Novas,Cumari,76.51
 Caldas Novas,Goiandira,71.55
 Caldas Novas,Goiatuba,83.85
-Caldas Novas,Hidrolândia,107.85
 Caldas Novas,Ipameri,49.47
 Caldas Novas,Itumbiara,96.83
-Caldas Novas,Joviânia,105.57
-Caldas Novas,Mairipotaba,104.32
 Caldas Novas,Marzagão,26.62
 Caldas Novas,Morrinhos,50.99
 Caldas Novas,Nova Aurora,52.53
@@ -1443,12 +1225,10 @@ Caldazinha,Campestre de Goiás,74.08
 Caldazinha,Campo Limpo de Goiás,47.05
 Caldazinha,Caturaí,60.28
 Caldazinha,Cezarina,87.35
-Caldazinha,Cocalzinho de Goiás,105.15
 Caldazinha,Corumbá de Goiás,89.84
 Caldazinha,Cristianópolis,62.74
 Caldazinha,Cromínia,75.7
 Caldazinha,Damolândia,63.83
-Caldazinha,Edealina,106.02
 Caldazinha,Gameleira de Goiás,45.51
 Caldazinha,Goianápolis,22.57
 Caldazinha,Goiânia,28.15
@@ -1456,7 +1236,6 @@ Caldazinha,Goianira,51.38
 Caldazinha,Guapó,58.26
 Caldazinha,Hidrolândia,36.78
 Caldazinha,Inhumas,65.93
-Caldazinha,Itaguari,109.4
 Caldazinha,Itauçu,86.18
 Caldazinha,Jesúpolis,93.73
 Caldazinha,Leopoldo de Bulhões,29.4
@@ -1471,8 +1250,6 @@ Caldazinha,Palmelo,91.68
 Caldazinha,Petrolina de Goiás,77.15
 Caldazinha,Piracanjuba,65.66
 Caldazinha,Pirenópolis,95.85
-Caldazinha,Pires do Rio,101.2
-Caldazinha,Pontalina,101.94
 Caldazinha,Professor Jamil,65.15
 Caldazinha,Santa Bárbara de Goiás,75.58
 Caldazinha,Santa Cruz de Goiás,87.0
@@ -1490,7 +1267,6 @@ Caldazinha,Vianópolis,51.79
 Campestre de Goiás,Campo Limpo de Goiás,82.72
 Campestre de Goiás,Caturaí,41.33
 Campestre de Goiás,Cezarina,24.82
-Campestre de Goiás,Córrego do Ouro,105.12
 Campestre de Goiás,Cromínia,67.4
 Campestre de Goiás,Damolândia,66.65
 Campestre de Goiás,Edealina,73.63
@@ -1499,7 +1275,6 @@ Campestre de Goiás,Firminópolis,68.04
 Campestre de Goiás,Goianápolis,76.87
 Campestre de Goiás,Goiânia,46.64
 Campestre de Goiás,Goianira,41.25
-Campestre de Goiás,Goiás,103.7
 Campestre de Goiás,Guapó,18.65
 Campestre de Goiás,Hidrolândia,54.6
 Campestre de Goiás,Indiara,52.06
@@ -1509,7 +1284,6 @@ Campestre de Goiás,Itaguari,94.36
 Campestre de Goiás,Itauçu,62.86
 Campestre de Goiás,Jandaia,57.48
 Campestre de Goiás,Jesúpolis,96.78
-Campestre de Goiás,Leopoldo de Bulhões,102.66
 Campestre de Goiás,Mairipotaba,63.37
 Campestre de Goiás,Mossâmedes,89.99
 Campestre de Goiás,Nazário,28.34
@@ -1527,7 +1301,6 @@ Campestre de Goiás,Sanclerlândia,91.03
 Campestre de Goiás,Santa Bárbara de Goiás,21.24
 Campestre de Goiás,Santa Rosa de Goiás,78.38
 Campestre de Goiás,Santo Antônio de Goiás,51.59
-Campestre de Goiás,São Francisco de Goiás,103.96
 Campestre de Goiás,São João da Paraúna,76.24
 Campestre de Goiás,São Luís de Montes Belos,77.01
 Campestre de Goiás,Senador Canedo,64.55
@@ -1536,7 +1309,6 @@ Campestre de Goiás,Terezópolis de Goiás,77.29
 Campestre de Goiás,Trindade,24.81
 Campestre de Goiás,Turvânia,49.93
 Campestre de Goiás,Varjão,32.38
-Campestre de Goiás,Vicentinópolis,108.46
 Campinaçu,Campinorte,85.75
 Campinaçu,Colinas do Sul,67.09
 Campinaçu,Estrela do Norte,54.83
@@ -1546,11 +1318,9 @@ Campinaçu,Minaçu,47.36
 Campinaçu,Montividiu do Norte,50.32
 Campinaçu,Mutunópolis,76.31
 Campinaçu,Niquelândia,76.46
-Campinaçu,Nova Iguaçu de Goiás,104.17
 Campinaçu,Porangatu,73.65
 Campinaçu,Santa Tereza de Goiás,48.64
 Campinaçu,Trombas,36.14
-Campinaçu,Uruaçu,102.36
 Campinorte,Campos Verdes,54.61
 Campinorte,Crixás,92.16
 Campinorte,Estrela do Norte,50.46
@@ -1561,7 +1331,6 @@ Campinorte,Itapaci,83.02
 Campinorte,Mara Rosa,33.36
 Campinorte,Mutunópolis,66.22
 Campinorte,Niquelândia,76.35
-Campinorte,Nova Glória,103.0
 Campinorte,Nova Iguaçu de Goiás,25.61
 Campinorte,Pilar de Goiás,67.73
 Campinorte,Porangatu,97.25
@@ -1573,9 +1342,7 @@ Campinorte,Trombas,99.9
 Campinorte,Uirapuru,82.93
 Campinorte,Uruaçu,23.39
 Campo Alegre de Goiás,Catalão,61.46
-Campo Alegre de Goiás,Corumbaíba,100.35
 Campo Alegre de Goiás,Cristalina,98.15
-Campo Alegre de Goiás,Cristianópolis,109.69
 Campo Alegre de Goiás,Cumari,80.28
 Campo Alegre de Goiás,Davinópolis,61.69
 Campo Alegre de Goiás,Goiandira,64.49
@@ -1586,23 +1353,18 @@ Campo Alegre de Goiás,Orizona,86.81
 Campo Alegre de Goiás,Ouvidor,66.05
 Campo Alegre de Goiás,Palmelo,77.03
 Campo Alegre de Goiás,Pires do Rio,64.77
-Campo Alegre de Goiás,Rio Quente,106.58
 Campo Alegre de Goiás,Santa Cruz de Goiás,82.76
 Campo Alegre de Goiás,Três Ranchos,79.79
 Campo Alegre de Goiás,Urutaí,48.89
 Campo Limpo de Goiás,Caturaí,46.13
-Campo Limpo de Goiás,Cezarina,104.76
 Campo Limpo de Goiás,Cocalzinho de Goiás,65.53
 Campo Limpo de Goiás,Corumbá de Goiás,50.96
-Campo Limpo de Goiás,Cristianópolis,108.36
 Campo Limpo de Goiás,Damolândia,29.59
 Campo Limpo de Goiás,Gameleira de Goiás,51.8
 Campo Limpo de Goiás,Goianápolis,24.68
-Campo Limpo de Goiás,Goianésia,109.6
 Campo Limpo de Goiás,Goiânia,47.13
 Campo Limpo de Goiás,Goianira,42.18
 Campo Limpo de Goiás,Guapó,75.87
-Campo Limpo de Goiás,Heitoraí,101.7
 Campo Limpo de Goiás,Hidrolândia,75.43
 Campo Limpo de Goiás,Inhumas,44.39
 Campo Limpo de Goiás,Itaberaí,82.47
@@ -1616,11 +1378,8 @@ Campo Limpo de Goiás,Nazário,90.18
 Campo Limpo de Goiás,Nerópolis,18.58
 Campo Limpo de Goiás,Nova Veneza,25.56
 Campo Limpo de Goiás,Ouro Verde de Goiás,14.22
-Campo Limpo de Goiás,Palmeiras de Goiás,105.33
 Campo Limpo de Goiás,Petrolina de Goiás,34.51
 Campo Limpo de Goiás,Pirenópolis,51.58
-Campo Limpo de Goiás,Professor Jamil,107.19
-Campo Limpo de Goiás,Rianápolis,104.89
 Campo Limpo de Goiás,Santa Bárbara de Goiás,71.46
 Campo Limpo de Goiás,Santa Rosa de Goiás,49.39
 Campo Limpo de Goiás,Santo Antônio de Goiás,31.17
@@ -1632,33 +1391,25 @@ Campo Limpo de Goiás,Silvânia,65.28
 Campo Limpo de Goiás,Taquaral de Goiás,61.32
 Campo Limpo de Goiás,Terezópolis de Goiás,10.88
 Campo Limpo de Goiás,Trindade,58.34
-Campo Limpo de Goiás,Uruana,109.27
-Campo Limpo de Goiás,Varjão,101.41
 Campo Limpo de Goiás,Vianópolis,78.55
 Campo Limpo de Goiás,Vila Propício,96.32
 Campos Belos,Divinópolis de Goiás,48.62
-Campos Belos,Guarani de Goiás,105.35
 Campos Belos,Monte Alegre de Goiás,27.96
 Campos Belos,Nova Roma,79.08
 Campos Belos,São Domingos,65.22
 Campos Belos,Teresina de Goiás,98.81
 Campos Verdes,Crixás,47.83
 Campos Verdes,Estrela do Norte,75.46
-Campos Verdes,Formoso,106.62
 Campos Verdes,Guarinos,54.17
 Campos Verdes,Hidrolina,57.33
-Campos Verdes,Ipiranga de Goiás,102.84
 Campos Verdes,Itapaci,79.48
 Campos Verdes,Mara Rosa,57.23
 Campos Verdes,Mundo Novo,85.71
 Campos Verdes,Mutunópolis,70.22
 Campos Verdes,Nova América,90.19
 Campos Verdes,Nova Crixás,74.85
-Campos Verdes,Nova Glória,100.53
 Campos Verdes,Nova Iguaçu de Goiás,29.01
 Campos Verdes,Pilar de Goiás,58.0
-Campos Verdes,Porangatu,104.68
-Campos Verdes,Rubiataba,103.32
 Campos Verdes,Santa Tereza de Goiás,90.68
 Campos Verdes,Santa Terezinha de Goiás,21.81
 Campos Verdes,São Luiz do Norte,76.94
@@ -1666,7 +1417,6 @@ Campos Verdes,Uirapuru,29.14
 Campos Verdes,Uruaçu,63.42
 Carmo do Rio Verde,Ceres,12.79
 Carmo do Rio Verde,Crixás,94.88
-Carmo do Rio Verde,Damolândia,106.61
 Carmo do Rio Verde,Faina,70.88
 Carmo do Rio Verde,Goianésia,63.64
 Carmo do Rio Verde,Goiás,79.22
@@ -1679,13 +1429,11 @@ Carmo do Rio Verde,Itaberaí,74.76
 Carmo do Rio Verde,Itaguari,63.54
 Carmo do Rio Verde,Itaguaru,45.33
 Carmo do Rio Verde,Itapaci,47.84
-Carmo do Rio Verde,Itapirapuã,109.55
 Carmo do Rio Verde,Itapuranga,34.5
 Carmo do Rio Verde,Itauçu,94.86
 Carmo do Rio Verde,Jaraguá,59.67
 Carmo do Rio Verde,Jesúpolis,75.07
 Carmo do Rio Verde,Morro Agudo de Goiás,37.46
-Carmo do Rio Verde,Mossâmedes,101.2
 Carmo do Rio Verde,Nova América,42.26
 Carmo do Rio Verde,Nova Glória,27.43
 Carmo do Rio Verde,Petrolina de Goiás,91.58
@@ -1697,7 +1445,6 @@ Carmo do Rio Verde,Rubiataba,23.86
 Carmo do Rio Verde,Santa Isabel,30.96
 Carmo do Rio Verde,Santa Rita do Novo Destino,67.62
 Carmo do Rio Verde,Santa Rosa de Goiás,84.21
-Carmo do Rio Verde,Santa Terezinha de Goiás,102.56
 Carmo do Rio Verde,São Francisco de Goiás,79.52
 Carmo do Rio Verde,São Luiz do Norte,68.4
 Carmo do Rio Verde,São Patrício,11.81
@@ -1709,18 +1456,14 @@ Castelândia,Edéia,88.44
 Castelândia,Goiatuba,88.97
 Castelândia,Gouvelândia,60.52
 Castelândia,Inaciolândia,49.38
-Castelândia,Indiara,108.47
 Castelândia,Joviânia,69.63
 Castelândia,Maurilândia,19.62
 Castelândia,Panamá,90.12
-Castelândia,Paranaiguara,103.03
-Castelândia,Pontalina,101.91
 Castelândia,Porteirão,31.15
 Castelândia,Quirinópolis,47.6
 Castelândia,Rio Verde,82.77
 Castelândia,Santa Helena de Goiás,52.12
 Castelândia,Santo Antônio da Barra,74.88
-Castelândia,São Simão,106.85
 Castelândia,Turvelândia,28.88
 Castelândia,Vicentinópolis,58.12
 Catalão,Corumbaíba,65.42
@@ -1731,17 +1474,13 @@ Catalão,Ipameri,54.33
 Catalão,Marzagão,76.48
 Catalão,Nova Aurora,34.93
 Catalão,Ouvidor,13.38
-Catalão,Palmelo,106.42
-Catalão,Pires do Rio,102.3
 Catalão,Rio Quente,97.85
 Catalão,Três Ranchos,27.44
 Catalão,Urutaí,82.52
 Caturaí,Cezarina,65.87
-Caturaí,Cocalzinho de Goiás,105.71
 Caturaí,Corumbá de Goiás,93.0
 Caturaí,Cromínia,94.58
 Caturaí,Damolândia,25.33
-Caturaí,Edéia,109.89
 Caturaí,Firminópolis,87.65
 Caturaí,Gameleira de Goiás,90.56
 Caturaí,Goianápolis,50.66
@@ -1749,7 +1488,6 @@ Caturaí,Goiânia,36.33
 Caturaí,Goianira,9.02
 Caturaí,Goiás,89.43
 Caturaí,Guapó,43.03
-Caturaí,Guaraíta,108.7
 Caturaí,Heitoraí,88.2
 Caturaí,Hidrolândia,64.23
 Caturaí,Indiara,93.3
@@ -1757,7 +1495,6 @@ Caturaí,Inhumas,9.32
 Caturaí,Itaberaí,57.76
 Caturaí,Itaguari,59.81
 Caturaí,Itaguaru,78.01
-Caturaí,Itapuranga,109.7
 Caturaí,Itauçu,29.66
 Caturaí,Jandaia,96.52
 Caturaí,Jaraguá,78.78
@@ -1772,7 +1509,6 @@ Caturaí,Ouro Verde de Goiás,40.69
 Caturaí,Palmeiras de Goiás,60.85
 Caturaí,Palminópolis,81.34
 Caturaí,Petrolina de Goiás,42.17
-Caturaí,Piracanjuba,107.98
 Caturaí,Pirenópolis,87.35
 Caturaí,Professor Jamil,93.37
 Caturaí,Sanclerlândia,91.62
@@ -1780,7 +1516,6 @@ Caturaí,Santa Bárbara de Goiás,25.72
 Caturaí,Santa Rosa de Goiás,40.11
 Caturaí,Santo Antônio de Goiás,20.04
 Caturaí,São Francisco de Goiás,62.86
-Caturaí,São João da Paraúna,105.78
 Caturaí,São Luís de Montes Belos,94.11
 Caturaí,Senador Canedo,51.93
 Caturaí,Silvânia,97.35
@@ -1788,23 +1523,16 @@ Caturaí,Taquaral de Goiás,45.22
 Caturaí,Terezópolis de Goiás,44.5
 Caturaí,Trindade,23.02
 Caturaí,Turvânia,71.07
-Caturaí,Uruana,107.12
 Caturaí,Varjão,68.57
-Caturaí,Vianópolis,109.26
 Cavalcante,Colinas do Sul,77.63
 Cavalcante,Flores de Goiás,84.77
-Cavalcante,Guarani de Goiás,105.92
 Cavalcante,Iaciara,95.02
 Cavalcante,Minaçu,87.73
 Cavalcante,Monte Alegre de Goiás,85.75
 Cavalcante,Nova Roma,63.32
 Cavalcante,São Domingos,79.71
-Cavalcante,São João d'Aliança,101.13
 Cavalcante,Teresina de Goiás,20.69
-Ceres,Cocalzinho de Goiás,103.58
-Ceres,Corumbá de Goiás,108.88
 Ceres,Crixás,94.07
-Ceres,Damolândia,108.45
 Ceres,Faina,83.21
 Ceres,Goianésia,51.89
 Ceres,Goiás,90.6
@@ -1838,7 +1566,6 @@ Ceres,São Francisco de Goiás,77.89
 Ceres,São Luiz do Norte,57.46
 Ceres,São Patrício,23.88
 Ceres,Taquaral de Goiás,82.95
-Ceres,Uruaçu,100.07
 Ceres,Uruana,23.38
 Ceres,Vila Propício,78.73
 Cezarina,Cromínia,54.86
@@ -1853,38 +1580,29 @@ Cezarina,Guapó,30.15
 Cezarina,Hidrolândia,58.43
 Cezarina,Indiara,29.06
 Cezarina,Inhumas,73.99
-Cezarina,Itaberaí,105.82
 Cezarina,Itauçu,87.29
 Cezarina,Jandaia,40.19
 Cezarina,Joviânia,93.79
 Cezarina,Mairipotaba,47.28
-Cezarina,Mossâmedes,105.19
 Cezarina,Nazário,44.92
 Cezarina,Nerópolis,86.3
 Cezarina,Nova Veneza,82.92
-Cezarina,Ouro Verde de Goiás,104.23
 Cezarina,Palmeiras de Goiás,24.4
 Cezarina,Palminópolis,45.99
 Cezarina,Paraúna,71.59
-Cezarina,Petrolina de Goiás,107.98
 Cezarina,Piracanjuba,88.59
 Cezarina,Pontalina,70.39
-Cezarina,Porteirão,102.39
 Cezarina,Professor Jamil,64.41
-Cezarina,Sanclerlândia,103.4
 Cezarina,Santa Bárbara de Goiás,45.34
-Cezarina,Santa Rosa de Goiás,103.15
 Cezarina,Santo Antônio de Goiás,73.74
 Cezarina,São João da Paraúna,69.68
 Cezarina,São Luís de Montes Belos,80.93
 Cezarina,Senador Canedo,78.51
-Cezarina,Taquaral de Goiás,103.89
 Cezarina,Terezópolis de Goiás,98.07
 Cezarina,Trindade,46.64
 Cezarina,Turvânia,55.44
 Cezarina,Varjão,17.51
 Cezarina,Vicentinópolis,84.61
-Chapadão do Céu,Jataí,105.47
 Chapadão do Céu,Mineiros,93.62
 Chapadão do Céu,Serranópolis,63.3
 Cidade Ocidental,Cocalzinho de Goiás,96.2
@@ -1892,10 +1610,8 @@ Cidade Ocidental,Corumbá de Goiás,96.25
 Cidade Ocidental,Cristalina,83.75
 Cidade Ocidental,Formosa,86.71
 Cidade Ocidental,Gameleira de Goiás,89.31
-Cidade Ocidental,Leopoldo de Bulhões,106.06
 Cidade Ocidental,Luziânia,19.8
 Cidade Ocidental,Novo Gama,12.6
-Cidade Ocidental,Padre Bernardo,108.83
 Cidade Ocidental,Planaltina,77.25
 Cidade Ocidental,Santo Antônio do Descoberto,38.6
 Cidade Ocidental,Silvânia,97.58
@@ -1906,16 +1622,11 @@ Cocalzinho de Goiás,Damolândia,81.27
 Cocalzinho de Goiás,Gameleira de Goiás,78.4
 Cocalzinho de Goiás,Goianápolis,84.18
 Cocalzinho de Goiás,Goianésia,64.67
-Cocalzinho de Goiás,Goianira,104.74
-Cocalzinho de Goiás,Inhumas,100.1
 Cocalzinho de Goiás,Itaguari,90.14
 Cocalzinho de Goiás,Itaguaru,92.18
-Cocalzinho de Goiás,Itauçu,100.41
 Cocalzinho de Goiás,Jaraguá,60.05
 Cocalzinho de Goiás,Jesúpolis,66.42
 Cocalzinho de Goiás,Leopoldo de Bulhões,92.09
-Cocalzinho de Goiás,Luziânia,102.0
-Cocalzinho de Goiás,Mimoso de Goiás,105.33
 Cocalzinho de Goiás,Nerópolis,83.32
 Cocalzinho de Goiás,Nova Veneza,86.53
 Cocalzinho de Goiás,Novo Gama,83.84
@@ -1923,7 +1634,6 @@ Cocalzinho de Goiás,Ouro Verde de Goiás,65.28
 Cocalzinho de Goiás,Padre Bernardo,87.72
 Cocalzinho de Goiás,Petrolina de Goiás,68.99
 Cocalzinho de Goiás,Pirenópolis,20.73
-Cocalzinho de Goiás,Rialma,101.39
 Cocalzinho de Goiás,Rianápolis,87.76
 Cocalzinho de Goiás,Santa Isabel,88.9
 Cocalzinho de Goiás,Santa Rita do Novo Destino,81.84
@@ -1931,35 +1641,25 @@ Cocalzinho de Goiás,Santa Rosa de Goiás,83.63
 Cocalzinho de Goiás,Santo Antônio de Goiás,95.67
 Cocalzinho de Goiás,Santo Antônio do Descoberto,57.74
 Cocalzinho de Goiás,São Francisco de Goiás,54.06
-Cocalzinho de Goiás,Senador Canedo,107.42
 Cocalzinho de Goiás,Silvânia,98.2
 Cocalzinho de Goiás,Taquaral de Goiás,93.28
 Cocalzinho de Goiás,Terezópolis de Goiás,74.56
-Cocalzinho de Goiás,Uruana,102.85
 Cocalzinho de Goiás,Valparaíso de Goiás,90.69
-Cocalzinho de Goiás,Vianópolis,109.09
 Cocalzinho de Goiás,Vila Propício,39.21
-Colinas do Sul,Formoso,103.01
-Colinas do Sul,Mimoso de Goiás,100.35
 Colinas do Sul,Minaçu,70.95
 Colinas do Sul,Niquelândia,54.09
 Colinas do Sul,São João d'Aliança,85.54
 Colinas do Sul,Teresina de Goiás,96.74
-Colinas do Sul,Trombas,101.53
 Córrego do Ouro,Diorama,75.43
 Córrego do Ouro,Faina,96.04
 Córrego do Ouro,Fazenda Nova,27.14
 Córrego do Ouro,Firminópolis,41.25
 Córrego do Ouro,Goiás,59.25
 Córrego do Ouro,Guaraíta,94.07
-Córrego do Ouro,Heitoraí,100.18
 Córrego do Ouro,Iporá,62.76
 Córrego do Ouro,Israelândia,38.33
 Córrego do Ouro,Itaberaí,85.02
-Córrego do Ouro,Itaguari,109.0
 Córrego do Ouro,Itapirapuã,52.79
-Córrego do Ouro,Itapuranga,103.66
-Córrego do Ouro,Itauçu,100.77
 Córrego do Ouro,Ivolândia,42.84
 Córrego do Ouro,Jandaia,94.52
 Córrego do Ouro,Jaupaci,44.61
@@ -1978,7 +1678,6 @@ Córrego do Ouro,Santa Bárbara de Goiás,96.33
 Córrego do Ouro,Santa Fé de Goiás,83.13
 Córrego do Ouro,São João da Paraúna,59.83
 Córrego do Ouro,São Luís de Montes Belos,31.77
-Córrego do Ouro,Taquaral de Goiás,104.53
 Córrego do Ouro,Turvânia,56.7
 Corumbá de Goiás,Damolândia,69.4
 Corumbá de Goiás,Gameleira de Goiás,64.85
@@ -1987,7 +1686,6 @@ Corumbá de Goiás,Goianésia,75.53
 Corumbá de Goiás,Goiânia,97.52
 Corumbá de Goiás,Goianira,91.3
 Corumbá de Goiás,Inhumas,88.11
-Corumbá de Goiás,Itaberaí,106.83
 Corumbá de Goiás,Itaguari,85.05
 Corumbá de Goiás,Itaguaru,90.07
 Corumbá de Goiás,Itauçu,90.83
@@ -1999,10 +1697,8 @@ Corumbá de Goiás,Nerópolis,69.12
 Corumbá de Goiás,Nova Veneza,73.2
 Corumbá de Goiás,Novo Gama,83.66
 Corumbá de Goiás,Ouro Verde de Goiás,52.31
-Corumbá de Goiás,Padre Bernardo,102.08
 Corumbá de Goiás,Petrolina de Goiás,59.26
 Corumbá de Goiás,Pirenópolis,17.71
-Corumbá de Goiás,Rialma,106.75
 Corumbá de Goiás,Rianápolis,91.91
 Corumbá de Goiás,Santa Isabel,95.99
 Corumbá de Goiás,Santa Rita do Novo Destino,93.8
@@ -2014,14 +1710,10 @@ Corumbá de Goiás,Senador Canedo,92.13
 Corumbá de Goiás,Silvânia,84.62
 Corumbá de Goiás,Taquaral de Goiás,85.86
 Corumbá de Goiás,Terezópolis de Goiás,59.59
-Corumbá de Goiás,Trindade,108.73
-Corumbá de Goiás,Uruana,104.86
 Corumbá de Goiás,Valparaíso de Goiás,90.72
 Corumbá de Goiás,Vianópolis,96.07
 Corumbá de Goiás,Vila Propício,52.83
-Corumbaíba,Cristianópolis,105.89
 Corumbaíba,Cumari,45.56
-Corumbaíba,Davinópolis,106.28
 Corumbaíba,Goiandira,50.21
 Corumbaíba,Goiatuba,86.14
 Corumbaíba,Ipameri,63.34
@@ -2032,7 +1724,6 @@ Corumbaíba,Nova Aurora,33.74
 Corumbaíba,Ouvidor,77.41
 Corumbaíba,Palmelo,91.85
 Corumbaíba,Panamá,83.82
-Corumbaíba,Piracanjuba,105.02
 Corumbaíba,Pires do Rio,98.14
 Corumbaíba,Rio Quente,46.51
 Corumbaíba,Santa Cruz de Goiás,92.25
@@ -2041,18 +1732,14 @@ Corumbaíba,Urutaí,84.37
 Cristalina,Luziânia,67.56
 Cristalina,Novo Gama,91.08
 Cristalina,Orizona,78.48
-Cristalina,Palmelo,106.4
 Cristalina,Pires do Rio,92.24
-Cristalina,Silvânia,106.66
 Cristalina,Urutaí,99.63
 Cristalina,Valparaíso de Goiás,87.16
 Cristalina,Vianópolis,96.17
 Cristianópolis,Cromínia,72.52
-Cristianópolis,Edealina,105.05
 Cristianópolis,Gameleira de Goiás,79.56
 Cristianópolis,Goianápolis,83.83
 Cristianópolis,Goiânia,82.49
-Cristianópolis,Goianira,109.81
 Cristianópolis,Guapó,97.43
 Cristianópolis,Hidrolândia,61.49
 Cristianópolis,Ipameri,82.01
@@ -2060,8 +1747,6 @@ Cristianópolis,Leopoldo de Bulhões,64.6
 Cristianópolis,Mairipotaba,84.23
 Cristianópolis,Marzagão,87.46
 Cristianópolis,Morrinhos,73.2
-Cristianópolis,Nerópolis,104.17
-Cristianópolis,Nova Aurora,106.87
 Cristianópolis,Orizona,47.0
 Cristianópolis,Palmelo,32.67
 Cristianópolis,Piracanjuba,35.23
@@ -2070,21 +1755,16 @@ Cristianópolis,Pontalina,86.93
 Cristianópolis,Professor Jamil,57.7
 Cristianópolis,Rio Quente,64.39
 Cristianópolis,Santa Cruz de Goiás,26.96
-Cristianópolis,Santo Antônio de Goiás,102.58
 Cristianópolis,São Miguel do Passa Quatro,16.23
 Cristianópolis,Senador Canedo,68.38
 Cristianópolis,Silvânia,60.75
 Cristianópolis,Terezópolis de Goiás,97.98
-Cristianópolis,Trindade,103.68
 Cristianópolis,Urutaí,60.96
-Cristianópolis,Varjão,100.02
 Cristianópolis,Vianópolis,54.71
-Crixás,Faina,109.04
 Crixás,Guarinos,36.09
 Crixás,Hidrolina,58.66
 Crixás,Ipiranga de Goiás,77.09
 Crixás,Itapaci,64.47
-Crixás,Mara Rosa,103.87
 Crixás,Morro Agudo de Goiás,86.86
 Crixás,Mozarlândia,68.16
 Crixás,Mundo Novo,91.63
@@ -2095,7 +1775,6 @@ Crixás,Nova Iguaçu de Goiás,69.24
 Crixás,Pilar de Goiás,49.07
 Crixás,Rialma,95.78
 Crixás,Rubiataba,71.35
-Crixás,Santa Isabel,102.51
 Crixás,Santa Terezinha de Goiás,30.97
 Crixás,São Luiz do Norte,77.99
 Crixás,São Patrício,91.48
@@ -2110,23 +1789,16 @@ Cromínia,Goiatuba,80.32
 Cromínia,Guapó,53.58
 Cromínia,Hidrolândia,39.71
 Cromínia,Indiara,66.52
-Cromínia,Inhumas,103.89
 Cromínia,Jandaia,85.6
 Cromínia,Joviânia,62.53
-Cromínia,Leopoldo de Bulhões,100.64
 Cromínia,Mairipotaba,11.72
-Cromínia,Marzagão,109.95
 Cromínia,Morrinhos,57.39
 Cromínia,Nazário,95.08
 Cromínia,Nerópolis,99.66
-Cromínia,Nova Veneza,102.39
 Cromínia,Palmeiras de Goiás,79.01
-Cromínia,Palmelo,101.34
-Cromínia,Palminópolis,100.06
 Cromínia,Panamá,99.0
 Cromínia,Piracanjuba,38.55
 Cromínia,Pontalina,27.05
-Cromínia,Porteirão,101.76
 Cromínia,Professor Jamil,15.04
 Cromínia,Rio Quente,84.04
 Cromínia,Santa Bárbara de Goiás,86.5
@@ -2134,8 +1806,6 @@ Cromínia,Santa Cruz de Goiás,95.48
 Cromínia,Santo Antônio de Goiás,90.02
 Cromínia,São Miguel do Passa Quatro,80.44
 Cromínia,Senador Canedo,71.4
-Cromínia,Silvânia,107.76
-Cromínia,Terezópolis de Goiás,104.39
 Cromínia,Trindade,71.8
 Cromínia,Varjão,37.85
 Cromínia,Vicentinópolis,66.83
@@ -2145,8 +1815,6 @@ Cumari,Ipameri,60.37
 Cumari,Marzagão,60.54
 Cumari,Nova Aurora,25.28
 Cumari,Ouvidor,33.58
-Cumari,Palmelo,108.35
-Cumari,Pires do Rio,107.85
 Cumari,Rio Quente,85.39
 Cumari,Três Ranchos,40.83
 Cumari,Urutaí,89.04
@@ -2157,16 +1825,12 @@ Damianópolis,Mambaí,10.92
 Damianópolis,Posse,56.69
 Damianópolis,Simolândia,34.7
 Damianópolis,Sítio d'Abadia,27.68
-Damianópolis,Vila Boa,107.97
-Damolândia,Firminópolis,106.61
 Damolândia,Gameleira de Goiás,80.76
 Damolândia,Goianápolis,46.04
-Damolândia,Goianésia,108.09
 Damolândia,Goiânia,49.18
 Damolândia,Goianira,27.58
 Damolândia,Goiás,90.36
 Damolândia,Guapó,66.53
-Damolândia,Guaraíta,100.66
 Damolândia,Heitoraí,77.47
 Damolândia,Hidrolândia,80.08
 Damolândia,Inhumas,18.83
@@ -2184,14 +1848,10 @@ Damolândia,Nerópolis,22.44
 Damolândia,Nova Veneza,13.72
 Damolândia,Ouro Verde de Goiás,18.48
 Damolândia,Palmeiras de Goiás,85.53
-Damolândia,Palminópolis,104.36
 Damolândia,Petrolina de Goiás,17.75
 Damolândia,Pirenópolis,62.33
-Damolândia,Rialma,107.09
 Damolândia,Rianápolis,91.32
-Damolândia,Sanclerlândia,101.55
 Damolândia,Santa Bárbara de Goiás,49.99
-Damolândia,Santa Isabel,106.8
 Damolândia,Santa Rosa de Goiás,23.63
 Damolândia,Santo Antônio de Goiás,25.89
 Damolândia,São Francisco de Goiás,38.17
@@ -2203,29 +1863,23 @@ Damolândia,Trindade,46.29
 Damolândia,Turvânia,91.63
 Damolândia,Uruana,90.79
 Damolândia,Varjão,92.66
-Damolândia,Vianópolis,105.26
-Damolândia,Vila Propício,102.79
 Davinópolis,Goiandira,56.1
 Davinópolis,Ipameri,79.48
 Davinópolis,Nova Aurora,74.49
 Davinópolis,Ouvidor,30.68
 Davinópolis,Três Ranchos,32.39
-Davinópolis,Urutaí,102.27
 Diorama,Fazenda Nova,51.14
-Diorama,Firminópolis,108.38
 Diorama,Iporá,27.22
 Diorama,Israelândia,37.99
 Diorama,Itapirapuã,82.78
 Diorama,Ivolândia,63.97
 Diorama,Jaupaci,32.99
 Diorama,Jussara,58.14
-Diorama,Matrinchã,104.16
 Diorama,Moiporá,64.91
 Diorama,Montes Claros de Goiás,29.54
 Diorama,Novo Brasil,62.18
 Diorama,Palestina de Goiás,63.56
 Diorama,Piranhas,64.42
-Diorama,Sanclerlândia,100.65
 Diorama,Santa Fé de Goiás,54.31
 Diorama,São Luís de Montes Belos,99.37
 Divinópolis de Goiás,Guarani de Goiás,73.63
@@ -2234,7 +1888,6 @@ Divinópolis de Goiás,Monte Alegre de Goiás,53.45
 Divinópolis de Goiás,Nova Roma,71.86
 Divinópolis de Goiás,Posse,89.08
 Divinópolis de Goiás,São Domingos,52.52
-Divinópolis de Goiás,Teresina de Goiás,108.59
 Doverlândia,Mineiros,97.39
 Doverlândia,Palestina de Goiás,83.94
 Doverlândia,Perolândia,93.7
@@ -2242,7 +1895,6 @@ Doverlândia,Piranhas,62.04
 Doverlândia,Portelândia,80.52
 Edealina,Edéia,29.62
 Edealina,Goiânia,92.38
-Edealina,Goianira,106.36
 Edealina,Goiatuba,72.49
 Edealina,Guapó,67.5
 Edealina,Hidrolândia,69.24
@@ -2261,20 +1913,12 @@ Edealina,Piracanjuba,70.03
 Edealina,Pontalina,25.35
 Edealina,Porteirão,68.57
 Edealina,Professor Jamil,48.65
-Edealina,Rio Quente,102.23
 Edealina,Santa Bárbara de Goiás,94.85
-Edealina,Santa Helena de Goiás,107.89
-Edealina,Santo Antônio da Barra,103.97
-Edealina,São João da Paraúna,104.33
-Edealina,Senador Canedo,100.2
 Edealina,Trindade,87.78
-Edealina,Turvânia,103.27
 Edealina,Turvelândia,82.57
 Edealina,Varjão,42.05
 Edealina,Vicentinópolis,37.37
 Edéia,Firminópolis,93.71
-Edéia,Goiânia,101.46
-Edéia,Goianira,108.19
 Edéia,Goiatuba,95.47
 Edéia,Guapó,70.64
 Edéia,Hidrolândia,85.71
@@ -2296,14 +1940,12 @@ Edéia,Santa Bárbara de Goiás,89.08
 Edéia,Santa Helena de Goiás,88.08
 Edéia,Santo Antônio da Barra,78.61
 Edéia,São João da Paraúna,77.76
-Edéia,São Luís de Montes Belos,102.59
 Edéia,Trindade,89.58
 Edéia,Turvânia,83.91
 Edéia,Turvelândia,69.09
 Edéia,Varjão,45.49
 Edéia,Vicentinópolis,45.51
 Estrela do Norte,Formoso,31.93
-Estrela do Norte,Hidrolina,104.49
 Estrela do Norte,Mara Rosa,20.08
 Estrela do Norte,Minaçu,99.24
 Estrela do Norte,Montividiu do Norte,71.14
@@ -2315,21 +1957,17 @@ Estrela do Norte,Porangatu,48.28
 Estrela do Norte,Santa Tereza de Goiás,18.07
 Estrela do Norte,Santa Terezinha de Goiás,93.2
 Estrela do Norte,Trombas,53.48
-Estrela do Norte,Uirapuru,102.59
 Estrela do Norte,Uruaçu,73.46
 Faina,Fazenda Nova,93.16
 Faina,Goiás,59.04
 Faina,Guaraíta,40.36
-Faina,Guarinos,106.87
 Faina,Heitoraí,64.82
 Faina,Ipiranga de Goiás,80.48
 Faina,Itaberaí,87.22
 Faina,Itaguari,96.3
 Faina,Itaguaru,85.09
-Faina,Itapaci,102.98
 Faina,Itapirapuã,49.22
 Faina,Itapuranga,46.03
-Faina,Jaupaci,102.73
 Faina,Jussara,71.31
 Faina,Matrinchã,41.12
 Faina,Morro Agudo de Goiás,35.89
@@ -2343,16 +1981,12 @@ Faina,Rianápolis,91.19
 Faina,Rubiataba,67.69
 Faina,Sanclerlândia,83.53
 Faina,Santa Fé de Goiás,86.98
-Faina,Santa Isabel,101.79
 Faina,São Patrício,59.33
-Faina,Taquaral de Goiás,105.4
 Faina,Uruana,72.68
 Fazenda Nova,Firminópolis,66.94
 Fazenda Nova,Goiás,73.64
-Fazenda Nova,Guaraíta,102.45
 Fazenda Nova,Iporá,46.14
 Fazenda Nova,Israelândia,20.16
-Fazenda Nova,Itaberaí,105.42
 Fazenda Nova,Itapirapuã,44.2
 Fazenda Nova,Ivolândia,46.29
 Fazenda Nova,Jaupaci,18.46
@@ -2361,9 +1995,7 @@ Fazenda Nova,Matrinchã,83.38
 Fazenda Nova,Moiporá,40.25
 Fazenda Nova,Montes Claros de Goiás,69.1
 Fazenda Nova,Mossâmedes,60.65
-Fazenda Nova,Nazário,105.34
 Fazenda Nova,Novo Brasil,18.36
-Fazenda Nova,Palestina de Goiás,101.31
 Fazenda Nova,Palminópolis,94.11
 Fazenda Nova,Paraúna,91.82
 Fazenda Nova,Sanclerlândia,49.75
@@ -2374,13 +2006,11 @@ Fazenda Nova,Turvânia,83.4
 Firminópolis,Goianira,93.94
 Firminópolis,Goiás,73.77
 Firminópolis,Guapó,86.61
-Firminópolis,Heitoraí,108.24
 Firminópolis,Indiara,70.95
 Firminópolis,Inhumas,89.04
 Firminópolis,Iporá,88.13
 Firminópolis,Israelândia,70.83
 Firminópolis,Itaberaí,81.63
-Firminópolis,Itaguari,104.49
 Firminópolis,Itapirapuã,90.3
 Firminópolis,Itauçu,84.88
 Firminópolis,Ivolândia,52.07
@@ -2390,15 +2020,12 @@ Firminópolis,Jussara,99.38
 Firminópolis,Moiporá,46.52
 Firminópolis,Mossâmedes,51.37
 Firminópolis,Nazário,45.01
-Firminópolis,Nova Veneza,107.78
 Firminópolis,Novo Brasil,74.71
 Firminópolis,Palmeiras de Goiás,47.68
 Firminópolis,Palminópolis,28.07
 Firminópolis,Paraúna,43.76
 Firminópolis,Sanclerlândia,42.35
 Firminópolis,Santa Bárbara de Goiás,64.87
-Firminópolis,Santa Rosa de Goiás,102.28
-Firminópolis,Santo Antônio de Goiás,106.54
 Firminópolis,São João da Paraúna,28.41
 Firminópolis,São Luís de Montes Belos,9.65
 Firminópolis,Taquaral de Goiás,94.86
@@ -2416,12 +2043,8 @@ Flores de Goiás,Simolândia,60.01
 Flores de Goiás,Sítio d'Abadia,93.78
 Flores de Goiás,Teresina de Goiás,77.8
 Flores de Goiás,Vila Boa,66.01
-Formosa,Luziânia,102.87
-Formosa,Mimoso de Goiás,103.75
 Formosa,Novo Gama,94.96
-Formosa,Padre Bernardo,109.89
 Formosa,Planaltina,30.73
-Formosa,Santo Antônio do Descoberto,108.18
 Formosa,São João d'Aliança,94.99
 Formosa,Valparaíso de Goiás,89.88
 Formosa,Vila Boa,63.57
@@ -2429,21 +2052,16 @@ Formoso,Mara Rosa,51.93
 Formoso,Minaçu,72.23
 Formoso,Montividiu do Norte,39.43
 Formoso,Mutunópolis,43.81
-Formoso,Niquelândia,101.33
 Formoso,Nova Iguaçu de Goiás,89.67
 Formoso,Novo Planalto,81.69
 Formoso,Porangatu,37.67
 Formoso,Santa Tereza de Goiás,16.41
 Formoso,Trombas,21.56
-Formoso,Uruaçu,101.2
 Gameleira de Goiás,Goianápolis,40.39
 Gameleira de Goiás,Goiânia,69.64
 Gameleira de Goiás,Goianira,83.34
-Gameleira de Goiás,Guapó,102.16
 Gameleira de Goiás,Hidrolândia,81.52
 Gameleira de Goiás,Inhumas,92.2
-Gameleira de Goiás,Itauçu,107.7
-Gameleira de Goiás,Jaraguá,109.78
 Gameleira de Goiás,Jesúpolis,98.06
 Gameleira de Goiás,Leopoldo de Bulhões,18.12
 Gameleira de Goiás,Luziânia,78.56
@@ -2457,9 +2075,7 @@ Gameleira de Goiás,Petrolina de Goiás,85.48
 Gameleira de Goiás,Piracanjuba,99.04
 Gameleira de Goiás,Pirenópolis,78.09
 Gameleira de Goiás,Pires do Rio,98.9
-Gameleira de Goiás,Professor Jamil,106.21
 Gameleira de Goiás,Santa Cruz de Goiás,93.95
-Gameleira de Goiás,Santa Rosa de Goiás,101.1
 Gameleira de Goiás,Santo Antônio de Goiás,70.82
 Gameleira de Goiás,Santo Antônio do Descoberto,73.31
 Gameleira de Goiás,São Francisco de Goiás,90.49
@@ -2477,27 +2093,22 @@ Goianápolis,Hidrolândia,54.8
 Goianápolis,Inhumas,53.46
 Goianápolis,Itaberaí,99.69
 Goianápolis,Itaguari,90.63
-Goianápolis,Itaguaru,106.25
 Goianápolis,Itauçu,71.37
 Goianápolis,Jaraguá,90.48
 Goianápolis,Jesúpolis,72.78
 Goianápolis,Leopoldo de Bulhões,32.28
-Goianápolis,Mairipotaba,100.67
 Goianápolis,Nazário,91.83
 Goianápolis,Nerópolis,24.25
 Goianápolis,Nova Veneza,34.96
 Goianápolis,Orizona,96.85
 Goianápolis,Ouro Verde de Goiás,37.2
-Goianápolis,Palmeiras de Goiás,101.38
 Goianápolis,Petrolina de Goiás,56.79
 Goianápolis,Piracanjuba,88.09
 Goianápolis,Pirenópolis,73.62
 Goianápolis,Professor Jamil,85.56
 Goianápolis,Santa Bárbara de Goiás,71.96
-Goianápolis,Santa Cruz de Goiás,106.57
 Goianápolis,Santa Rosa de Goiás,69.13
 Goianápolis,Santo Antônio de Goiás,30.68
-Goianápolis,Santo Antônio do Descoberto,103.34
 Goianápolis,São Francisco de Goiás,69.72
 Goianápolis,São Miguel do Passa Quatro,72.1
 Goianápolis,Senador Canedo,23.24
@@ -2514,26 +2125,20 @@ Goiandira,Ouvidor,28.54
 Goiandira,Palmelo,96.88
 Goiandira,Pires do Rio,94.8
 Goiandira,Rio Quente,82.85
-Goiandira,Santa Cruz de Goiás,100.22
 Goiandira,Três Ranchos,40.91
 Goiandira,Urutaí,75.48
-Goianésia,Guaraíta,103.11
 Goianésia,Guarinos,90.2
 Goianésia,Heitoraí,88.58
 Goianésia,Hidrolina,75.05
 Goianésia,Ipiranga de Goiás,61.45
-Goianésia,Itaberaí,108.01
 Goianésia,Itaguari,85.48
 Goianésia,Itaguaru,74.43
 Goianésia,Itapaci,61.47
 Goianésia,Itapuranga,93.45
 Goianésia,Jaraguá,54.33
 Goianésia,Jesúpolis,75.98
-Goianésia,Mimoso de Goiás,106.5
-Goianésia,Morro Agudo de Goiás,100.72
 Goianésia,Nova América,89.67
 Goianésia,Nova Glória,52.47
-Goianésia,Ouro Verde de Goiás,101.12
 Goianésia,Padre Bernardo,90.93
 Goianésia,Petrolina de Goiás,90.41
 Goianésia,Pilar de Goiás,78.85
@@ -2559,15 +2164,12 @@ Goiânia,Inhumas,44.05
 Goiânia,Itaberaí,93.92
 Goiânia,Itaguari,92.95
 Goiânia,Itauçu,65.24
-Goiânia,Jandaia,102.01
-Goiânia,Jaraguá,104.07
 Goiânia,Jesúpolis,82.89
 Goiânia,Leopoldo de Bulhões,56.06
 Goiânia,Mairipotaba,72.06
 Goiânia,Nazário,66.82
 Goiânia,Nerópolis,31.64
 Goiânia,Nova Veneza,35.68
-Goiânia,Orizona,109.99
 Goiânia,Ouro Verde de Goiás,52.61
 Goiânia,Palmeiras de Goiás,71.46
 Goiânia,Palminópolis,96.65
@@ -2577,7 +2179,6 @@ Goiânia,Pirenópolis,98.5
 Goiânia,Pontalina,95.02
 Goiânia,Professor Jamil,62.67
 Goiânia,Santa Bárbara de Goiás,47.68
-Goiânia,Santa Cruz de Goiás,108.78
 Goiânia,Santa Rosa de Goiás,71.37
 Goiânia,Santo Antônio de Goiás,23.29
 Goiânia,São Francisco de Goiás,84.6
@@ -2616,13 +2217,10 @@ Goianira,Petrolina de Goiás,45.29
 Goianira,Piracanjuba,99.8
 Goianira,Pirenópolis,87.36
 Goianira,Professor Jamil,86.18
-Goianira,Sanclerlândia,100.1
 Goianira,Santa Bárbara de Goiás,29.85
 Goianira,Santa Rosa de Goiás,46.25
 Goianira,Santo Antônio de Goiás,12.6
 Goianira,São Francisco de Goiás,65.73
-Goianira,São Luís de Montes Belos,100.85
-Goianira,São Miguel do Passa Quatro,102.76
 Goianira,Senador Canedo,42.94
 Goianira,Silvânia,89.17
 Goianira,Taquaral de Goiás,52.71
@@ -2630,7 +2228,6 @@ Goianira,Terezópolis de Goiás,38.68
 Goianira,Trindade,18.81
 Goianira,Turvânia,76.79
 Goianira,Varjão,65.16
-Goianira,Vianópolis,100.85
 Goiás,Guaraíta,37.72
 Goiás,Heitoraí,41.12
 Goiás,Inhumas,83.27
@@ -2642,7 +2239,6 @@ Goiás,Itaguaru,57.45
 Goiás,Itapirapuã,51.75
 Goiás,Itapuranga,46.21
 Goiás,Itauçu,63.99
-Goiás,Ivolândia,101.65
 Goiás,Jaraguá,88.48
 Goiás,Jaupaci,90.79
 Goiás,Jesúpolis,81.93
@@ -2652,11 +2248,7 @@ Goiás,Moiporá,93.23
 Goiás,Morro Agudo de Goiás,68.97
 Goiás,Mossâmedes,22.62
 Goiás,Nazário,77.1
-Goiás,Nova América,104.82
-Goiás,Nova Glória,106.6
-Goiás,Nova Veneza,100.41
 Goiás,Novo Brasil,62.03
-Goiás,Ouro Verde de Goiás,105.9
 Goiás,Palmeiras de Goiás,99.57
 Goiás,Palminópolis,95.57
 Goiás,Petrolina de Goiás,87.79
@@ -2665,25 +2257,18 @@ Goiás,Rianápolis,86.42
 Goiás,Rubiataba,93.01
 Goiás,Sanclerlândia,34.63
 Goiás,Santa Bárbara de Goiás,85.36
-Goiás,Santa Fé de Goiás,104.74
-Goiás,Santa Isabel,104.27
 Goiás,Santa Rosa de Goiás,70.92
-Goiás,Santo Antônio de Goiás,107.6
 Goiás,São Francisco de Goiás,94.04
-Goiás,São João da Paraúna,101.9
 Goiás,São Luís de Montes Belos,69.92
 Goiás,São Patrício,73.45
 Goiás,Taquaral de Goiás,58.81
-Goiás,Trindade,105.61
 Goiás,Turvânia,75.52
 Goiás,Uruana,68.48
-Goiatuba,Gouvelândia,101.7
 Goiatuba,Inaciolândia,84.47
 Goiatuba,Itumbiara,47.09
 Goiatuba,Joviânia,35.49
 Goiatuba,Mairipotaba,80.36
 Goiatuba,Marzagão,76.66
-Goiatuba,Maurilândia,102.99
 Goiatuba,Morrinhos,41.3
 Goiatuba,Panamá,18.69
 Goiatuba,Piracanjuba,87.02
@@ -2691,32 +2276,25 @@ Goiatuba,Pontalina,54.97
 Goiatuba,Porteirão,87.36
 Goiatuba,Professor Jamil,85.58
 Goiatuba,Rio Quente,68.07
-Goiatuba,Turvelândia,100.68
 Goiatuba,Vicentinópolis,55.81
 Gouvelândia,Inaciolândia,18.03
 Gouvelândia,Itumbiara,94.24
-Gouvelândia,Joviânia,103.53
 Gouvelândia,Maurilândia,77.45
 Gouvelândia,Panamá,91.18
 Gouvelândia,Paranaiguara,68.46
 Gouvelândia,Porteirão,90.46
 Gouvelândia,Quirinópolis,44.07
-Gouvelândia,Santa Helena de Goiás,105.56
 Gouvelândia,São Simão,64.22
 Gouvelândia,Turvelândia,89.16
-Gouvelândia,Vicentinópolis,103.33
 Guapó,Hidrolândia,35.95
 Guapó,Indiara,59.06
 Guapó,Inhumas,52.23
 Guapó,Itaberaí,94.51
-Guapó,Itaguari,101.67
 Guapó,Itauçu,70.17
 Guapó,Jandaia,69.36
 Guapó,Jesúpolis,99.48
-Guapó,Joviânia,108.49
 Guapó,Leopoldo de Bulhões,87.5
 Guapó,Mairipotaba,52.23
-Guapó,Mossâmedes,106.78
 Guapó,Nazário,46.19
 Guapó,Nerópolis,57.77
 Guapó,Nova Veneza,56.18
@@ -2728,26 +2306,19 @@ Guapó,Petrolina de Goiás,84.19
 Guapó,Piracanjuba,76.05
 Guapó,Pontalina,77.57
 Guapó,Professor Jamil,55.99
-Guapó,Sanclerlândia,108.75
 Guapó,Santa Bárbara de Goiás,33.45
 Guapó,Santa Rosa de Goiás,83.02
 Guapó,Santo Antônio de Goiás,45.53
-Guapó,São Francisco de Goiás,104.69
 Guapó,São João da Paraúna,93.12
 Guapó,São Luís de Montes Belos,95.64
 Guapó,São Miguel do Passa Quatro,96.22
 Guapó,Senador Canedo,49.07
-Guapó,Silvânia,100.41
 Guapó,Taquaral de Goiás,86.78
 Guapó,Terezópolis de Goiás,68.49
 Guapó,Trindade,20.29
 Guapó,Turvânia,68.55
 Guapó,Varjão,26.27
-Guapó,Vianópolis,108.89
-Guapó,Vicentinópolis,104.37
-Guaraíta,Guarinos,104.22
 Guaraíta,Heitoraí,24.46
-Guaraíta,Inhumas,100.51
 Guaraíta,Ipiranga de Goiás,62.4
 Guaraíta,Itaberaí,51.18
 Guaraíta,Itaguari,56.31
@@ -2762,12 +2333,10 @@ Guaraíta,Jussara,94.26
 Guaraíta,Matrinchã,79.54
 Guaraíta,Morro Agudo de Goiás,32.8
 Guaraíta,Mossâmedes,60.34
-Guaraíta,Nazário,108.82
 Guaraíta,Nova América,67.26
 Guaraíta,Nova Glória,71.09
 Guaraíta,Novo Brasil,86.83
 Guaraíta,Petrolina de Goiás,91.4
-Guaraíta,Pilar de Goiás,106.17
 Guaraíta,Rialma,58.06
 Guaraíta,Rianápolis,58.21
 Guaraíta,Rubiataba,55.44
@@ -2775,7 +2344,6 @@ Guaraíta,Sanclerlândia,71.87
 Guaraíta,Santa Isabel,73.35
 Guaraíta,Santa Rosa de Goiás,77.34
 Guaraíta,São Francisco de Goiás,89.07
-Guaraíta,São Luís de Montes Belos,107.63
 Guaraíta,São Patrício,36.72
 Guaraíta,Taquaral de Goiás,66.61
 Guaraíta,Uruana,38.56
@@ -2822,7 +2390,6 @@ Heitoraí,Itapuranga,21.94
 Heitoraí,Itauçu,58.55
 Heitoraí,Jaraguá,52.83
 Heitoraí,Jesúpolis,54.75
-Heitoraí,Matrinchã,103.38
 Heitoraí,Morro Agudo de Goiás,50.83
 Heitoraí,Mossâmedes,61.15
 Heitoraí,Nazário,96.01
@@ -2830,10 +2397,8 @@ Heitoraí,Nerópolis,99.9
 Heitoraí,Nova América,78.01
 Heitoraí,Nova Glória,69.35
 Heitoraí,Nova Veneza,90.57
-Heitoraí,Novo Brasil,100.77
 Heitoraí,Ouro Verde de Goiás,87.48
 Heitoraí,Petrolina de Goiás,67.19
-Heitoraí,Pilar de Goiás,109.83
 Heitoraí,Pirenópolis,94.07
 Heitoraí,Rialma,52.1
 Heitoraí,Rianápolis,45.45
@@ -2843,22 +2408,14 @@ Heitoraí,Santa Bárbara de Goiás,95.82
 Heitoraí,Santa Isabel,63.71
 Heitoraí,Santa Rita do Novo Destino,99.75
 Heitoraí,Santa Rosa de Goiás,53.89
-Heitoraí,Santo Antônio de Goiás,101.2
 Heitoraí,São Francisco de Goiás,64.79
-Heitoraí,São Luís de Montes Belos,106.56
-Heitoraí,São Luiz do Norte,109.38
 Heitoraí,São Patrício,41.04
 Heitoraí,Taquaral de Goiás,44.05
-Heitoraí,Terezópolis de Goiás,109.61
-Heitoraí,Trindade,109.68
-Heitoraí,Turvânia,104.73
 Heitoraí,Uruana,28.7
-Heitoraí,Vila Propício,105.4
 Hidrolândia,Indiara,83.1
 Hidrolândia,Inhumas,72.96
 Hidrolândia,Itauçu,93.88
 Hidrolândia,Jandaia,98.16
-Hidrolândia,Joviânia,102.24
 Hidrolândia,Leopoldo de Bulhões,64.12
 Hidrolândia,Mairipotaba,46.58
 Hidrolândia,Morrinhos,86.66
@@ -2869,30 +2426,22 @@ Hidrolândia,Orizona,99.22
 Hidrolândia,Ouro Verde de Goiás,82.86
 Hidrolândia,Palmeiras de Goiás,76.27
 Hidrolândia,Palmelo,94.16
-Hidrolândia,Palminópolis,101.66
 Hidrolândia,Petrolina de Goiás,96.98
 Hidrolândia,Piracanjuba,43.82
-Hidrolândia,Pires do Rio,107.74
 Hidrolândia,Pontalina,66.59
 Hidrolândia,Professor Jamil,31.98
-Hidrolândia,Rio Quente,102.28
 Hidrolândia,Santa Bárbara de Goiás,66.22
 Hidrolândia,Santa Cruz de Goiás,88.41
-Hidrolândia,Santa Rosa de Goiás,101.81
 Hidrolândia,Santo Antônio de Goiás,54.22
 Hidrolândia,São Miguel do Passa Quatro,60.96
 Hidrolândia,Senador Canedo,31.71
 Hidrolândia,Silvânia,73.91
-Hidrolândia,Taquaral de Goiás,108.94
 Hidrolândia,Terezópolis de Goiás,65.08
 Hidrolândia,Trindade,44.7
-Hidrolândia,Turvânia,104.44
 Hidrolândia,Varjão,44.05
 Hidrolândia,Vianópolis,79.55
-Hidrolândia,Vicentinópolis,105.31
 Hidrolina,Ipiranga de Goiás,53.99
 Hidrolina,Itapaci,26.85
-Hidrolina,Itapuranga,106.43
 Hidrolina,Mara Rosa,84.87
 Hidrolina,Morro Agudo de Goiás,91.53
 Hidrolina,Nova América,56.8
@@ -2910,7 +2459,6 @@ Hidrolina,São Patrício,79.14
 Hidrolina,Uirapuru,69.56
 Hidrolina,Uruaçu,41.47
 Hidrolina,Uruana,89.24
-Hidrolina,Vila Propício,102.24
 Iaciara,Mambaí,70.0
 Iaciara,Monte Alegre de Goiás,98.14
 Iaciara,Nova Roma,47.89
@@ -2930,28 +2478,22 @@ Inaciolândia,Santa Helena de Goiás,98.89
 Inaciolândia,São Simão,81.61
 Inaciolândia,Turvelândia,78.17
 Inaciolândia,Vicentinópolis,86.14
-Indiara,Inhumas,100.77
-Indiara,Ivolândia,104.64
 Indiara,Jandaia,19.68
 Indiara,Joviânia,83.37
 Indiara,Mairipotaba,55.6
 Indiara,Maurilândia,99.9
-Indiara,Moiporá,103.93
 Indiara,Nazário,63.02
 Indiara,Palmeiras de Goiás,37.76
 Indiara,Palminópolis,42.96
 Indiara,Paraúna,53.59
-Indiara,Piracanjuba,104.53
 Indiara,Pontalina,71.23
 Indiara,Porteirão,77.49
 Indiara,Professor Jamil,79.8
 Indiara,Santa Bárbara de Goiás,70.26
 Indiara,Santa Helena de Goiás,99.01
 Indiara,Santo Antônio da Barra,83.15
-Indiara,Santo Antônio de Goiás,102.6
 Indiara,São João da Paraúna,57.78
 Indiara,São Luís de Montes Belos,80.05
-Indiara,Senador Canedo,106.54
 Indiara,Trindade,75.43
 Indiara,Turvânia,60.67
 Indiara,Turvelândia,85.93
@@ -2960,13 +2502,10 @@ Indiara,Vicentinópolis,68.75
 Inhumas,Itaberaí,50.01
 Inhumas,Itaguari,50.58
 Inhumas,Itaguaru,68.77
-Inhumas,Itapuranga,101.12
 Inhumas,Itauçu,21.2
-Inhumas,Jandaia,102.75
 Inhumas,Jaraguá,69.91
 Inhumas,Jesúpolis,47.83
 Inhumas,Leopoldo de Bulhões,85.69
-Inhumas,Mairipotaba,104.13
 Inhumas,Mossâmedes,80.6
 Inhumas,Nazário,47.46
 Inhumas,Nerópolis,29.99
@@ -2976,17 +2515,13 @@ Inhumas,Palmeiras de Goiás,66.86
 Inhumas,Palminópolis,85.58
 Inhumas,Petrolina de Goiás,34.19
 Inhumas,Pirenópolis,81.06
-Inhumas,Professor Jamil,102.5
-Inhumas,Rianápolis,101.81
 Inhumas,Sanclerlândia,88.6
 Inhumas,Santa Bárbara de Goiás,31.31
 Inhumas,Santa Rosa de Goiás,30.82
 Inhumas,Santo Antônio de Goiás,24.33
 Inhumas,São Francisco de Goiás,54.77
-Inhumas,São João da Paraúna,109.12
 Inhumas,São Luís de Montes Belos,94.74
 Inhumas,Senador Canedo,58.22
-Inhumas,Silvânia,100.72
 Inhumas,Taquaral de Goiás,36.1
 Inhumas,Terezópolis de Goiás,45.0
 Inhumas,Trindade,32.32
@@ -2994,12 +2529,10 @@ Inhumas,Turvânia,73.43
 Inhumas,Uruana,97.87
 Inhumas,Varjão,77.55
 Ipameri,Marzagão,58.85
-Ipameri,Morrinhos,100.39
 Ipameri,Nova Aurora,38.98
 Ipameri,Orizona,77.91
 Ipameri,Ouvidor,65.82
 Ipameri,Palmelo,52.37
-Ipameri,Piracanjuba,102.33
 Ipameri,Pires do Rio,48.33
 Ipameri,Rio Quente,65.33
 Ipameri,Santa Cruz de Goiás,56.65
@@ -3014,25 +2547,19 @@ Ipiranga de Goiás,Itapuranga,52.87
 Ipiranga de Goiás,Jaraguá,74.21
 Ipiranga de Goiás,Jesúpolis,92.28
 Ipiranga de Goiás,Morro Agudo de Goiás,44.6
-Ipiranga de Goiás,Mozarlândia,107.7
 Ipiranga de Goiás,Nova América,29.32
 Ipiranga de Goiás,Nova Glória,10.62
-Ipiranga de Goiás,Nova Iguaçu de Goiás,102.68
-Ipiranga de Goiás,Petrolina de Goiás,109.17
 Ipiranga de Goiás,Pilar de Goiás,46.42
-Ipiranga de Goiás,Pirenópolis,107.48
 Ipiranga de Goiás,Rialma,18.75
 Ipiranga de Goiás,Rianápolis,35.13
 Ipiranga de Goiás,Rubiataba,14.54
 Ipiranga de Goiás,Santa Isabel,29.7
 Ipiranga de Goiás,Santa Rita do Novo Destino,59.06
-Ipiranga de Goiás,Santa Rosa de Goiás,103.45
 Ipiranga de Goiás,Santa Terezinha de Goiás,81.98
 Ipiranga de Goiás,São Francisco de Goiás,94.87
 Ipiranga de Goiás,São Luiz do Norte,50.15
 Ipiranga de Goiás,São Patrício,25.68
 Ipiranga de Goiás,Taquaral de Goiás,98.46
-Ipiranga de Goiás,Uirapuru,102.07
 Ipiranga de Goiás,Uruaçu,91.59
 Ipiranga de Goiás,Uruana,36.78
 Ipiranga de Goiás,Vila Propício,90.23
@@ -3043,17 +2570,14 @@ Iporá,Jaupaci,34.21
 Iporá,Jussara,69.23
 Iporá,Moiporá,42.02
 Iporá,Montes Claros de Goiás,56.75
-Iporá,Mossâmedes,102.72
 Iporá,Novo Brasil,62.84
 Iporá,Palestina de Goiás,55.18
-Iporá,Palminópolis,108.83
 Iporá,Paraúna,90.87
 Iporá,Piranhas,75.26
 Iporá,Sanclerlândia,90.11
 Iporá,Santa Fé de Goiás,74.89
 Iporá,São João da Paraúna,86.15
 Iporá,São Luís de Montes Belos,79.99
-Iporá,Turvânia,106.33
 Israelândia,Itapirapuã,63.55
 Israelândia,Ivolândia,34.05
 Israelândia,Jaupaci,15.89
@@ -3083,7 +2607,6 @@ Itaberaí,Morro Agudo de Goiás,82.52
 Itaberaí,Mossâmedes,45.04
 Itaberaí,Nazário,62.81
 Itaberaí,Nerópolis,75.52
-Itaberaí,Nova Glória,100.49
 Itaberaí,Nova Veneza,65.07
 Itaberaí,Novo Brasil,96.76
 Itaberaí,Ouro Verde de Goiás,68.95
@@ -3100,18 +2623,14 @@ Itaberaí,Santa Isabel,90.29
 Itaberaí,Santa Rosa de Goiás,33.94
 Itaberaí,Santo Antônio de Goiás,73.72
 Itaberaí,São Francisco de Goiás,59.26
-Itaberaí,São João da Paraúna,109.06
 Itaberaí,São Luís de Montes Belos,82.19
 Itaberaí,São Patrício,74.58
-Itaberaí,Senador Canedo,107.99
 Itaberaí,Taquaral de Goiás,21.88
 Itaberaí,Terezópolis de Goiás,87.99
 Itaberaí,Trindade,77.73
 Itaberaí,Turvânia,74.69
 Itaberaí,Uruana,59.37
 Itaguari,Itaguaru,18.21
-Itaguari,Itapaci,107.56
-Itaguari,Itapirapuã,107.75
 Itaguari,Itapuranga,54.02
 Itaguari,Itauçu,31.68
 Itaguari,Jaraguá,34.47
@@ -3120,11 +2639,9 @@ Itaguari,Morro Agudo de Goiás,82.15
 Itaguari,Mossâmedes,68.75
 Itaguari,Nazário,79.32
 Itaguari,Nerópolis,67.93
-Itaguari,Nova América,104.46
 Itaguari,Nova Glória,86.03
 Itaguari,Nova Veneza,59.01
 Itaguari,Ouro Verde de Goiás,55.32
-Itaguari,Palmeiras de Goiás,104.2
 Itaguari,Petrolina de Goiás,35.11
 Itaguari,Pirenópolis,69.78
 Itaguari,Rialma,67.16
@@ -3133,13 +2650,10 @@ Itaguari,Rubiataba,86.72
 Itaguari,Sanclerlândia,81.5
 Itaguari,Santa Bárbara de Goiás,73.26
 Itaguari,Santa Isabel,71.86
-Itaguari,Santa Rita do Novo Destino,101.48
 Itaguari,Santa Rosa de Goiás,21.99
 Itaguari,Santo Antônio de Goiás,70.25
 Itaguari,São Francisco de Goiás,37.07
-Itaguari,São Luís de Montes Belos,105.72
 Itaguari,São Patrício,67.07
-Itaguari,Senador Canedo,103.7
 Itaguari,Taquaral de Goiás,14.92
 Itaguari,Terezópolis de Goiás,77.33
 Itaguari,Trindade,82.49
@@ -3147,7 +2661,6 @@ Itaguari,Turvânia,95.72
 Itaguari,Uruana,47.32
 Itaguari,Vila Propício,93.2
 Itaguaru,Itapaci,89.89
-Itaguaru,Itapirapuã,104.46
 Itaguaru,Itapuranga,40.02
 Itaguaru,Itauçu,49.71
 Itaguaru,Jaraguá,32.21
@@ -3172,18 +2685,14 @@ Itaguaru,Santa Rita do Novo Destino,88.44
 Itaguaru,Santa Rosa de Goiás,39.38
 Itaguaru,Santo Antônio de Goiás,87.81
 Itaguaru,São Francisco de Goiás,44.29
-Itaguaru,São Luiz do Norte,104.9
 Itaguaru,São Patrício,49.25
 Itaguaru,Taquaral de Goiás,33.04
 Itaguaru,Terezópolis de Goiás,92.51
-Itaguaru,Trindade,100.7
-Itaguaru,Turvânia,109.21
 Itaguaru,Uruana,29.11
 Itaguaru,Vila Propício,87.42
 Itajá,Itarumã,39.75
 Itajá,Lagoa Santa,20.33
 Itajá,Paranaiguara,95.69
-Itajá,São Simão,105.68
 Itajá,Serranópolis,94.92
 Itapaci,Itapuranga,79.99
 Itapaci,Jaraguá,92.02
@@ -3218,19 +2727,15 @@ Itapirapuã,Sanclerlândia,52.54
 Itapirapuã,Santa Fé de Goiás,53.23
 Itapirapuã,São Luís de Montes Belos,81.91
 Itapirapuã,São Patrício,99.61
-Itapirapuã,Turvânia,101.49
-Itapirapuã,Uruana,105.11
 Itapuranga,Itauçu,80.05
 Itapuranga,Jaraguá,69.19
 Itapuranga,Jesúpolis,75.15
-Itapuranga,Jussara,103.94
 Itapuranga,Matrinchã,86.51
 Itapuranga,Morro Agudo de Goiás,29.24
 Itapuranga,Mossâmedes,68.74
 Itapuranga,Nova América,60.32
 Itapuranga,Nova Glória,61.28
 Itapuranga,Novo Brasil,96.91
-Itapuranga,Ouro Verde de Goiás,108.91
 Itapuranga,Petrolina de Goiás,88.6
 Itapuranga,Pilar de Goiás,97.42
 Itapuranga,Rialma,47.97
@@ -3238,24 +2743,17 @@ Itapuranga,Rianápolis,48.6
 Itapuranga,Rubiataba,46.97
 Itapuranga,Sanclerlândia,80.74
 Itapuranga,Santa Isabel,63.33
-Itapuranga,Santa Rita do Novo Destino,100.67
 Itapuranga,Santa Rosa de Goiás,75.78
 Itapuranga,São Francisco de Goiás,84.12
-Itapuranga,São Luiz do Norte,102.41
 Itapuranga,São Patrício,27.3
 Itapuranga,Taquaral de Goiás,65.96
 Itapuranga,Uruana,28.98
-Itarumã,Jataí,106.07
 Itarumã,Lagoa Santa,46.86
 Itarumã,Paranaiguara,74.96
-Itarumã,Quirinópolis,100.59
 Itarumã,São Simão,88.17
 Itarumã,Serranópolis,82.03
-Itauçu,Jandaia,109.88
 Itauçu,Jaraguá,58.12
 Itauçu,Jesúpolis,37.97
-Itauçu,Leopoldo de Bulhões,103.51
-Itauçu,Morro Agudo de Goiás,109.25
 Itauçu,Mossâmedes,64.96
 Itauçu,Nazário,50.99
 Itauçu,Nerópolis,47.12
@@ -3269,11 +2767,9 @@ Itauçu,Rialma,98.84
 Itauçu,Rianápolis,84.88
 Itauçu,Sanclerlândia,74.91
 Itauçu,Santa Bárbara de Goiás,41.96
-Itauçu,Santa Isabel,102.79
 Itauçu,Santa Rosa de Goiás,18.09
 Itauçu,Santo Antônio de Goiás,44.65
 Itauçu,São Francisco de Goiás,48.5
-Itauçu,São João da Paraúna,108.81
 Itauçu,São Luís de Montes Belos,88.64
 Itauçu,São Patrício,97.39
 Itauçu,Senador Canedo,78.92
@@ -3286,9 +2782,7 @@ Itauçu,Varjão,93.9
 Itumbiara,Joviânia,79.89
 Itumbiara,Marzagão,76.99
 Itumbiara,Morrinhos,76.05
-Itumbiara,Nova Aurora,108.64
 Itumbiara,Panamá,29.59
-Itumbiara,Pontalina,101.64
 Itumbiara,Rio Quente,84.77
 Itumbiara,Vicentinópolis,97.69
 Ivolândia,Jandaia,85.01
@@ -3296,7 +2790,6 @@ Ivolândia,Jaupaci,49.91
 Ivolândia,Jussara,81.96
 Ivolândia,Moiporá,8.42
 Ivolândia,Montes Claros de Goiás,92.39
-Ivolândia,Montividiu,102.25
 Ivolândia,Mossâmedes,81.27
 Ivolândia,Nazário,97.04
 Ivolândia,Novo Brasil,63.77
@@ -3306,15 +2799,11 @@ Ivolândia,Palminópolis,70.13
 Ivolândia,Paraúna,53.16
 Ivolândia,Sanclerlândia,67.98
 Ivolândia,Santa Fé de Goiás,98.43
-Ivolândia,Santo Antônio da Barra,107.94
 Ivolândia,São João da Paraúna,47.16
 Ivolândia,São Luís de Montes Belos,45.55
 Ivolândia,Turvânia,69.83
-Jandaia,Joviânia,100.68
 Jandaia,Mairipotaba,74.96
-Jandaia,Maurilândia,104.75
 Jandaia,Moiporá,84.52
-Jandaia,Mossâmedes,103.01
 Jandaia,Nazário,59.05
 Jandaia,Palmeiras de Goiás,35.9
 Jandaia,Palminópolis,28.51
@@ -3326,7 +2815,6 @@ Jandaia,Sanclerlândia,96.3
 Jandaia,Santa Bárbara de Goiás,71.44
 Jandaia,Santa Helena de Goiás,97.51
 Jandaia,Santo Antônio da Barra,76.93
-Jandaia,Santo Antônio de Goiás,109.02
 Jandaia,São João da Paraúna,38.39
 Jandaia,São Luís de Montes Belos,63.4
 Jandaia,Trindade,82.26
@@ -3336,10 +2824,7 @@ Jandaia,Varjão,54.65
 Jandaia,Vicentinópolis,84.22
 Jaraguá,Jesúpolis,22.15
 Jaraguá,Morro Agudo de Goiás,91.1
-Jaraguá,Mossâmedes,102.66
-Jaraguá,Nazário,109.05
 Jaraguá,Nerópolis,73.45
-Jaraguá,Nova América,101.23
 Jaraguá,Nova Glória,72.3
 Jaraguá,Nova Veneza,68.59
 Jaraguá,Ouro Verde de Goiás,53.86
@@ -3356,10 +2841,8 @@ Jaraguá,Santo Antônio de Goiás,81.06
 Jaraguá,São Francisco de Goiás,20.77
 Jaraguá,São Luiz do Norte,99.2
 Jaraguá,São Patrício,68.49
-Jaraguá,Senador Canedo,109.37
 Jaraguá,Taquaral de Goiás,44.02
 Jaraguá,Terezópolis de Goiás,76.36
-Jaraguá,Trindade,101.36
 Jaraguá,Uruana,47.05
 Jaraguá,Vila Propício,58.75
 Jataí,Mineiros,94.88
@@ -3374,16 +2857,12 @@ Jaupaci,Montes Claros de Goiás,51.43
 Jaupaci,Mossâmedes,78.96
 Jaupaci,Novo Brasil,30.3
 Jaupaci,Palestina de Goiás,87.92
-Jaupaci,Palminópolis,108.14
-Jaupaci,Paraúna,100.89
 Jaupaci,Piranhas,97.15
 Jaupaci,Sanclerlândia,68.21
 Jaupaci,Santa Fé de Goiás,48.53
 Jaupaci,São João da Paraúna,91.24
 Jaupaci,São Luís de Montes Belos,72.58
 Jaupaci,Turvânia,99.4
-Jesúpolis,Leopoldo de Bulhões,100.49
-Jesúpolis,Morro Agudo de Goiás,101.15
 Jesúpolis,Mossâmedes,91.84
 Jesúpolis,Nazário,88.79
 Jesúpolis,Nerópolis,53.25
@@ -3395,7 +2874,6 @@ Jesúpolis,Pirenópolis,45.74
 Jesúpolis,Rialma,73.91
 Jesúpolis,Rianápolis,57.81
 Jesúpolis,Rubiataba,98.91
-Jesúpolis,Sanclerlândia,104.02
 Jesúpolis,Santa Bárbara de Goiás,77.31
 Jesúpolis,Santa Isabel,72.78
 Jesúpolis,Santa Rita do Novo Destino,94.43
@@ -3407,11 +2885,9 @@ Jesúpolis,Senador Canedo,89.72
 Jesúpolis,Taquaral de Goiás,27.15
 Jesúpolis,Terezópolis de Goiás,58.72
 Jesúpolis,Trindade,79.22
-Jesúpolis,Turvânia,109.93
 Jesúpolis,Uruana,60.09
 Jesúpolis,Vila Propício,76.12
 Joviânia,Mairipotaba,57.76
-Joviânia,Marzagão,105.45
 Joviânia,Maurilândia,78.41
 Joviânia,Morrinhos,54.94
 Joviânia,Panamá,50.34
@@ -3420,14 +2896,12 @@ Joviânia,Pontalina,35.96
 Joviânia,Porteirão,57.78
 Joviânia,Professor Jamil,73.2
 Joviânia,Rio Quente,89.75
-Joviânia,Santa Helena de Goiás,103.54
 Joviânia,Turvelândia,72.47
 Joviânia,Varjão,83.95
 Joviânia,Vicentinópolis,21.07
 Jussara,Matrinchã,49.73
 Jussara,Moiporá,76.56
 Jussara,Montes Claros de Goiás,58.88
-Jussara,Morro Agudo de Goiás,106.11
 Jussara,Mossâmedes,75.49
 Jussara,Novo Brasil,24.79
 Jussara,Sanclerlândia,69.76
@@ -3436,7 +2910,6 @@ Jussara,São Luís de Montes Belos,89.96
 Lagoa Santa,Paranaiguara,83.91
 Lagoa Santa,São Simão,92.0
 Leopoldo de Bulhões,Luziânia,93.84
-Leopoldo de Bulhões,Mairipotaba,109.56
 Leopoldo de Bulhões,Nerópolis,56.44
 Leopoldo de Bulhões,Nova Veneza,67.19
 Leopoldo de Bulhões,Novo Gama,97.32
@@ -3448,7 +2921,6 @@ Leopoldo de Bulhões,Piracanjuba,81.35
 Leopoldo de Bulhões,Pirenópolis,88.48
 Leopoldo de Bulhões,Pires do Rio,90.68
 Leopoldo de Bulhões,Professor Jamil,88.09
-Leopoldo de Bulhões,Santa Bárbara de Goiás,101.65
 Leopoldo de Bulhões,Santa Cruz de Goiás,82.3
 Leopoldo de Bulhões,Santa Rosa de Goiás,99.93
 Leopoldo de Bulhões,Santo Antônio de Goiás,62.32
@@ -3459,8 +2931,6 @@ Leopoldo de Bulhões,Senador Canedo,38.44
 Leopoldo de Bulhões,Silvânia,15.04
 Leopoldo de Bulhões,Terezópolis de Goiás,43.74
 Leopoldo de Bulhões,Trindade,79.98
-Leopoldo de Bulhões,Valparaíso de Goiás,102.44
-Leopoldo de Bulhões,Varjão,105.86
 Leopoldo de Bulhões,Vianópolis,27.69
 Luziânia,Novo Gama,23.67
 Luziânia,Orizona,94.3
@@ -3471,26 +2941,19 @@ Luziânia,Valparaíso de Goiás,21.07
 Luziânia,Vianópolis,81.11
 Mairipotaba,Morrinhos,63.3
 Mairipotaba,Nazário,89.94
-Mairipotaba,Nerópolis,103.26
-Mairipotaba,Nova Veneza,104.82
 Mairipotaba,Palmeiras de Goiás,71.67
 Mairipotaba,Palminópolis,91.16
 Mairipotaba,Panamá,98.98
-Mairipotaba,Paraúna,109.1
 Mairipotaba,Piracanjuba,50.2
 Mairipotaba,Pontalina,25.39
 Mairipotaba,Porteirão,91.82
 Mairipotaba,Professor Jamil,26.63
 Mairipotaba,Rio Quente,92.69
 Mairipotaba,Santa Bárbara de Goiás,83.65
-Mairipotaba,Santa Cruz de Goiás,107.12
 Mairipotaba,Santo Antônio de Goiás,92.74
 Mairipotaba,São Miguel do Passa Quatro,91.88
 Mairipotaba,Senador Canedo,78.01
-Mairipotaba,Terezópolis de Goiás,109.48
 Mairipotaba,Trindade,71.81
-Mairipotaba,Turvânia,102.66
-Mairipotaba,Turvelândia,105.82
 Mairipotaba,Varjão,31.64
 Mairipotaba,Vicentinópolis,58.75
 Mambaí,Posse,51.88
@@ -3517,26 +2980,17 @@ Marzagão,Panamá,78.48
 Marzagão,Piracanjuba,85.54
 Marzagão,Pires do Rio,85.02
 Marzagão,Pontalina,99.66
-Marzagão,Professor Jamil,103.57
 Marzagão,Rio Quente,27.06
 Marzagão,Santa Cruz de Goiás,76.15
-Marzagão,São Miguel do Passa Quatro,102.86
-Marzagão,Três Ranchos,100.31
 Marzagão,Urutaí,74.08
 Matrinchã,Montes Claros de Goiás,94.42
 Matrinchã,Morro Agudo de Goiás,75.12
 Matrinchã,Mossâmedes,95.52
 Matrinchã,Mozarlândia,78.81
-Matrinchã,Nova América,102.17
 Matrinchã,Novo Brasil,66.5
-Matrinchã,Rubiataba,105.36
 Matrinchã,Sanclerlândia,96.66
 Matrinchã,Santa Fé de Goiás,53.25
 Matrinchã,São Patrício,99.88
-Maurilândia,Montividiu,106.07
-Maurilândia,Panamá,106.5
-Maurilândia,Paranaiguara,109.91
-Maurilândia,Pontalina,106.67
 Maurilândia,Porteirão,25.38
 Maurilândia,Quirinópolis,54.25
 Maurilândia,Rio Verde,64.58
@@ -3547,20 +3001,15 @@ Maurilândia,Vicentinópolis,62.5
 Mimoso de Goiás,Niquelândia,72.58
 Mimoso de Goiás,Padre Bernardo,17.86
 Mimoso de Goiás,Planaltina,74.11
-Mimoso de Goiás,Santa Rita do Novo Destino,103.4
 Mimoso de Goiás,Santo Antônio do Descoberto,99.47
 Mimoso de Goiás,São João d'Aliança,78.69
 Mimoso de Goiás,Vila Propício,89.36
 Minaçu,Montividiu do Norte,54.17
-Minaçu,Niquelândia,107.21
-Minaçu,Porangatu,101.04
 Minaçu,Santa Tereza de Goiás,88.17
-Minaçu,Teresina de Goiás,106.83
 Minaçu,Trombas,56.39
 Mineiros,Perolândia,52.0
 Mineiros,Portelândia,26.92
 Mineiros,Santa Rita do Araguaia,73.63
-Mineiros,Serranópolis,103.72
 Moiporá,Montes Claros de Goiás,92.3
 Moiporá,Mossâmedes,72.92
 Moiporá,Nazário,91.47
@@ -3575,7 +3024,6 @@ Moiporá,São João da Paraúna,46.15
 Moiporá,São Luís de Montes Belos,39.14
 Moiporá,Turvânia,64.63
 Monte Alegre de Goiás,Nova Roma,53.81
-Monte Alegre de Goiás,Posse,108.25
 Monte Alegre de Goiás,São Domingos,43.84
 Monte Alegre de Goiás,Teresina de Goiás,70.95
 Montes Claros de Goiás,Novo Brasil,73.44
@@ -3588,8 +3036,6 @@ Montividiu,Perolândia,95.06
 Montividiu,Rio Verde,47.15
 Montividiu,Santa Helena de Goiás,73.38
 Montividiu,Santo Antônio da Barra,58.49
-Montividiu,São João da Paraúna,107.29
-Montividiu,Turvelândia,102.7
 Montividiu do Norte,Mutunópolis,76.55
 Montividiu do Norte,Novo Planalto,89.59
 Montividiu do Norte,Porangatu,51.3
@@ -3599,30 +3045,22 @@ Morrinhos,Nova Aurora,97.05
 Morrinhos,Palmelo,85.15
 Morrinhos,Panamá,56.05
 Morrinhos,Piracanjuba,48.89
-Morrinhos,Pires do Rio,100.16
 Morrinhos,Pontalina,43.26
 Morrinhos,Professor Jamil,55.74
 Morrinhos,Rio Quente,35.59
 Morrinhos,Santa Cruz de Goiás,80.94
 Morrinhos,São Miguel do Passa Quatro,88.63
-Morrinhos,Urutaí,100.39
 Morrinhos,Varjão,94.5
 Morrinhos,Vicentinópolis,74.01
 Morro Agudo de Goiás,Mossâmedes,91.17
 Morro Agudo de Goiás,Mozarlândia,84.42
 Morro Agudo de Goiás,Nova América,37.3
 Morro Agudo de Goiás,Nova Glória,55.15
-Morro Agudo de Goiás,Novo Brasil,105.91
 Morro Agudo de Goiás,Pilar de Goiás,80.42
 Morro Agudo de Goiás,Rialma,50.83
 Morro Agudo de Goiás,Rianápolis,60.0
 Morro Agudo de Goiás,Rubiataba,32.03
-Morro Agudo de Goiás,Sanclerlândia,101.5
 Morro Agudo de Goiás,Santa Isabel,67.55
-Morro Agudo de Goiás,Santa Rita do Novo Destino,102.37
-Morro Agudo de Goiás,Santa Rosa de Goiás,104.12
-Morro Agudo de Goiás,Santa Terezinha de Goiás,105.29
-Morro Agudo de Goiás,São Francisco de Goiás,108.64
 Morro Agudo de Goiás,São Luiz do Norte,93.15
 Morro Agudo de Goiás,São Patrício,25.69
 Morro Agudo de Goiás,Taquaral de Goiás,94.82
@@ -3630,18 +3068,13 @@ Morro Agudo de Goiás,Uruana,44.4
 Mossâmedes,Nazário,61.92
 Mossâmedes,Nova Veneza,99.55
 Mossâmedes,Novo Brasil,54.17
-Mossâmedes,Ouro Verde de Goiás,109.37
 Mossâmedes,Palmeiras de Goiás,81.72
 Mossâmedes,Palminópolis,74.5
 Mossâmedes,Paraúna,94.8
 Mossâmedes,Petrolina de Goiás,93.76
-Mossâmedes,Rianápolis,106.47
 Mossâmedes,Sanclerlândia,13.31
 Mossâmedes,Santa Bárbara de Goiás,74.38
-Mossâmedes,Santa Fé de Goiás,103.14
 Mossâmedes,Santa Rosa de Goiás,76.87
-Mossâmedes,Santo Antônio de Goiás,104.35
-Mossâmedes,São Francisco de Goiás,104.22
 Mossâmedes,São João da Paraúna,79.36
 Mossâmedes,São Luís de Montes Belos,47.3
 Mossâmedes,São Patrício,95.92
@@ -3651,14 +3084,10 @@ Mossâmedes,Turvânia,54.93
 Mossâmedes,Uruana,89.5
 Mozarlândia,Nova América,78.81
 Mozarlândia,Nova Crixás,76.81
-Mozarlândia,Pilar de Goiás,106.78
 Mozarlândia,Rubiataba,94.45
 Mozarlândia,Santa Terezinha de Goiás,99.1
-Mozarlândia,São Patrício,105.16
 Mozarlândia,Uirapuru,86.92
-Mundo Novo,Mutunópolis,108.86
 Mundo Novo,Nova Crixás,36.27
-Mundo Novo,Novo Planalto,102.51
 Mundo Novo,Santa Terezinha de Goiás,95.87
 Mundo Novo,São Miguel do Araguaia,57.02
 Mundo Novo,Uirapuru,68.87
@@ -3667,19 +3096,16 @@ Mutunópolis,Novo Planalto,59.75
 Mutunópolis,Porangatu,35.05
 Mutunópolis,Santa Tereza de Goiás,28.16
 Mutunópolis,Santa Terezinha de Goiás,91.08
-Mutunópolis,São Miguel do Araguaia,108.73
 Mutunópolis,Trombas,62.66
 Mutunópolis,Uirapuru,92.93
 Mutunópolis,Uruaçu,89.42
 Nazário,Nerópolis,72.94
 Nazário,Nova Veneza,64.66
-Nazário,Novo Brasil,107.57
 Nazário,Ouro Verde de Goiás,83.69
 Nazário,Palmeiras de Goiás,25.27
 Nazário,Palminópolis,38.28
 Nazário,Paraúna,72.75
 Nazário,Petrolina de Goiás,79.26
-Nazário,Professor Jamil,100.67
 Nazário,Sanclerlândia,62.71
 Nazário,Santa Bárbara de Goiás,19.88
 Nazário,Santa Rosa de Goiás,68.93
@@ -3696,9 +3122,7 @@ Nazário,Varjão,58.3
 Nerópolis,Nova Veneza,10.77
 Nerópolis,Ouro Verde de Goiás,20.97
 Nerópolis,Palmeiras de Goiás,86.95
-Nerópolis,Palminópolis,109.3
 Nerópolis,Petrolina de Goiás,36.32
-Nerópolis,Piracanjuba,102.15
 Nerópolis,Pirenópolis,67.76
 Nerópolis,Professor Jamil,93.99
 Nerópolis,Santa Bárbara de Goiás,53.7
@@ -3711,15 +3135,9 @@ Nerópolis,Silvânia,71.38
 Nerópolis,Taquaral de Goiás,56.51
 Nerópolis,Terezópolis de Goiás,15.3
 Nerópolis,Trindade,39.78
-Nerópolis,Turvânia,100.17
 Nerópolis,Varjão,83.64
 Nerópolis,Vianópolis,84.07
-Niquelândia,Nova Iguaçu de Goiás,101.85
 Niquelândia,Padre Bernardo,79.5
-Niquelândia,Santa Rita do Novo Destino,102.82
-Niquelândia,Santa Tereza de Goiás,102.84
-Niquelândia,São João d'Aliança,104.27
-Niquelândia,São Luiz do Norte,103.23
 Niquelândia,Uruaçu,73.45
 Nova América,Nova Glória,37.2
 Nova América,Nova Iguaçu de Goiás,98.21
@@ -3742,33 +3160,25 @@ Nova Aurora,Rio Quente,63.28
 Nova Aurora,Santa Cruz de Goiás,86.14
 Nova Aurora,Três Ranchos,60.27
 Nova Aurora,Urutaí,66.36
-Nova Crixás,Nova Iguaçu de Goiás,103.83
-Nova Crixás,Pilar de Goiás,109.64
 Nova Crixás,Santa Terezinha de Goiás,76.69
 Nova Crixás,São Miguel do Araguaia,93.22
 Nova Crixás,Uirapuru,48.87
 Nova Glória,Nova Iguaçu de Goiás,97.51
-Nova Glória,Petrolina de Goiás,108.84
 Nova Glória,Pilar de Goiás,42.72
-Nova Glória,Pirenópolis,102.49
 Nova Glória,Rialma,18.87
 Nova Glória,Rianápolis,34.09
 Nova Glória,Rubiataba,24.87
 Nova Glória,Santa Isabel,23.08
 Nova Glória,Santa Rita do Novo Destino,48.68
-Nova Glória,Santa Rosa de Goiás,104.75
 Nova Glória,Santa Terezinha de Goiás,80.54
 Nova Glória,São Francisco de Goiás,93.06
 Nova Glória,São Luiz do Norte,41.14
 Nova Glória,São Patrício,34.73
-Nova Glória,Taquaral de Goiás,100.92
-Nova Glória,Uirapuru,102.78
 Nova Glória,Uruaçu,83.36
 Nova Glória,Uruana,41.2
 Nova Glória,Vila Propício,81.78
 Nova Iguaçu de Goiás,Pilar de Goiás,56.58
 Nova Iguaçu de Goiás,Porangatu,97.67
-Nova Iguaçu de Goiás,Rubiataba,107.15
 Nova Iguaçu de Goiás,Santa Rita do Novo Destino,98.6
 Nova Iguaçu de Goiás,Santa Tereza de Goiás,75.35
 Nova Iguaçu de Goiás,Santa Terezinha de Goiás,38.28
@@ -3781,36 +3191,26 @@ Nova Roma,Simolândia,90.92
 Nova Roma,Teresina de Goiás,42.64
 Nova Veneza,Ouro Verde de Goiás,21.32
 Nova Veneza,Palmeiras de Goiás,80.78
-Nova Veneza,Palminópolis,101.91
 Nova Veneza,Petrolina de Goiás,30.39
-Nova Veneza,Piracanjuba,108.49
 Nova Veneza,Pirenópolis,69.24
 Nova Veneza,Professor Jamil,98.18
-Nova Veneza,Rianápolis,104.82
-Nova Veneza,Sanclerlândia,107.98
 Nova Veneza,Santa Bárbara de Goiás,46.19
 Nova Veneza,Santa Rosa de Goiás,37.03
 Nova Veneza,Santo Antônio de Goiás,12.48
 Nova Veneza,São Francisco de Goiás,49.72
-Nova Veneza,São Miguel do Passa Quatro,103.57
 Nova Veneza,Senador Canedo,44.69
 Nova Veneza,Silvânia,82.15
 Nova Veneza,Taquaral de Goiás,46.75
 Nova Veneza,Terezópolis de Goiás,25.45
 Nova Veneza,Trindade,36.56
 Nova Veneza,Turvânia,91.52
-Nova Veneza,Uruana,104.51
 Nova Veneza,Varjão,82.45
 Nova Veneza,Vianópolis,94.81
-Novo Brasil,Palminópolis,102.74
-Novo Brasil,Paraúna,105.53
 Novo Brasil,Sanclerlândia,46.43
 Novo Brasil,Santa Fé de Goiás,51.27
 Novo Brasil,São João da Paraúna,92.66
 Novo Brasil,São Luís de Montes Belos,65.37
 Novo Brasil,Turvânia,89.07
-Novo Gama,Padre Bernardo,103.23
-Novo Gama,Pirenópolis,100.71
 Novo Gama,Planaltina,81.88
 Novo Gama,Santo Antônio do Descoberto,26.56
 Novo Gama,Silvânia,90.1
@@ -3823,51 +3223,38 @@ Novo Planalto,Trombas,87.79
 Orizona,Palmelo,35.31
 Orizona,Piracanjuba,82.18
 Orizona,Pires do Rio,29.93
-Orizona,Professor Jamil,103.52
 Orizona,Rio Quente,96.61
 Orizona,Santa Cruz de Goiás,36.99
 Orizona,São Miguel do Passa Quatro,38.96
 Orizona,Senador Canedo,91.99
 Orizona,Silvânia,53.16
-Orizona,Terezópolis de Goiás,109.57
 Orizona,Urutaí,49.05
 Orizona,Vianópolis,40.08
-Ouro Verde de Goiás,Palmeiras de Goiás,101.51
 Ouro Verde de Goiás,Petrolina de Goiás,20.31
 Ouro Verde de Goiás,Pirenópolis,48.0
-Ouro Verde de Goiás,Rialma,108.68
 Ouro Verde de Goiás,Rianápolis,92.36
 Ouro Verde de Goiás,Santa Bárbara de Goiás,66.35
-Ouro Verde de Goiás,Santa Isabel,105.51
 Ouro Verde de Goiás,Santa Rosa de Goiás,35.45
 Ouro Verde de Goiás,Santo Antônio de Goiás,31.77
-Ouro Verde de Goiás,Santo Antônio do Descoberto,104.68
 Ouro Verde de Goiás,São Francisco de Goiás,33.29
-Ouro Verde de Goiás,São Miguel do Passa Quatro,109.28
 Ouro Verde de Goiás,Senador Canedo,55.61
 Ouro Verde de Goiás,Silvânia,79.49
 Ouro Verde de Goiás,Taquaral de Goiás,47.5
 Ouro Verde de Goiás,Terezópolis de Goiás,23.11
 Ouro Verde de Goiás,Trindade,57.78
-Ouro Verde de Goiás,Turvânia,109.7
 Ouro Verde de Goiás,Uruana,95.69
-Ouro Verde de Goiás,Varjão,103.27
 Ouro Verde de Goiás,Vianópolis,92.76
 Ouro Verde de Goiás,Vila Propício,91.28
 Ouvidor,Três Ranchos,15.37
 Ouvidor,Urutaí,93.23
-Padre Bernardo,Pirenópolis,105.46
 Padre Bernardo,Planaltina,79.26
 Padre Bernardo,Santa Rita do Novo Destino,89.88
 Padre Bernardo,Santo Antônio do Descoberto,86.85
 Padre Bernardo,São João d'Aliança,96.14
-Padre Bernardo,Valparaíso de Goiás,105.84
 Padre Bernardo,Vila Propício,72.03
-Palestina de Goiás,Perolândia,104.27
 Palestina de Goiás,Piranhas,46.76
 Palmeiras de Goiás,Palminópolis,25.71
 Palmeiras de Goiás,Paraúna,57.99
-Palmeiras de Goiás,Petrolina de Goiás,100.59
 Palmeiras de Goiás,Pontalina,94.47
 Palmeiras de Goiás,Professor Jamil,87.63
 Palmeiras de Goiás,Sanclerlândia,79.22
@@ -3878,11 +3265,9 @@ Palmeiras de Goiás,São João da Paraúna,51.65
 Palmeiras de Goiás,São Luís de Montes Belos,57.24
 Palmeiras de Goiás,Senador Canedo,89.29
 Palmeiras de Goiás,Taquaral de Goiás,90.35
-Palmeiras de Goiás,Terezópolis de Goiás,100.86
 Palmeiras de Goiás,Trindade,48.97
 Palmeiras de Goiás,Turvânia,31.14
 Palmeiras de Goiás,Varjão,41.21
-Palmeiras de Goiás,Vicentinópolis,103.94
 Palmelo,Piracanjuba,62.79
 Palmelo,Pires do Rio,16.06
 Palmelo,Professor Jamil,87.26
@@ -3896,45 +3281,34 @@ Palmelo,Vianópolis,65.78
 Palminópolis,Paraúna,34.66
 Palminópolis,Sanclerlândia,68.04
 Palminópolis,Santa Bárbara de Goiás,55.75
-Palminópolis,Santa Rosa de Goiás,106.34
 Palminópolis,Santo Antônio da Barra,98.7
 Palminópolis,Santo Antônio de Goiás,97.49
 Palminópolis,São João da Paraúna,26.07
 Palminópolis,São Luís de Montes Belos,37.39
-Palminópolis,Taquaral de Goiás,101.79
 Palminópolis,Trindade,73.31
 Palminópolis,Turvânia,20.23
 Palminópolis,Varjão,63.48
-Panamá,Piracanjuba,103.81
 Panamá,Pontalina,73.6
 Panamá,Porteirão,94.77
-Panamá,Professor Jamil,103.92
 Panamá,Rio Quente,76.27
-Panamá,Turvelândia,106.62
 Panamá,Vicentinópolis,68.73
 Paranaiguara,Quirinópolis,56.0
 Paranaiguara,São Simão,14.47
-Paraúna,Porteirão,101.08
-Paraúna,Rio Verde,106.52
 Paraúna,Sanclerlândia,84.57
 Paraúna,Santa Bárbara de Goiás,90.36
 Paraúna,Santa Helena de Goiás,97.5
 Paraúna,Santo Antônio da Barra,70.88
 Paraúna,São João da Paraúna,15.44
 Paraúna,São Luís de Montes Belos,47.96
-Paraúna,Trindade,106.88
 Paraúna,Turvânia,49.77
-Paraúna,Turvelândia,101.7
 Paraúna,Varjão,87.62
 Perolândia,Portelândia,67.93
 Perolândia,Serranópolis,87.56
 Petrolina de Goiás,Pirenópolis,48.8
 Petrolina de Goiás,Rialma,90.86
 Petrolina de Goiás,Rianápolis,74.79
-Petrolina de Goiás,Sanclerlândia,104.84
 Petrolina de Goiás,Santa Bárbara de Goiás,65.21
 Petrolina de Goiás,Santa Isabel,89.58
-Petrolina de Goiás,Santa Rita do Novo Destino,109.41
 Petrolina de Goiás,Santa Rosa de Goiás,17.04
 Petrolina de Goiás,Santo Antônio de Goiás,42.87
 Petrolina de Goiás,São Francisco de Goiás,20.69
@@ -3944,7 +3318,6 @@ Petrolina de Goiás,Silvânia,99.78
 Petrolina de Goiás,Taquaral de Goiás,29.01
 Petrolina de Goiás,Terezópolis de Goiás,42.97
 Petrolina de Goiás,Trindade,63.92
-Petrolina de Goiás,Turvânia,102.87
 Petrolina de Goiás,Uruana,76.25
 Petrolina de Goiás,Vila Propício,86.43
 Pilar de Goiás,Rialma,61.57
@@ -3958,24 +3331,20 @@ Pilar de Goiás,São Patrício,70.39
 Pilar de Goiás,Uirapuru,64.57
 Pilar de Goiás,Uruaçu,54.07
 Pilar de Goiás,Uruana,82.93
-Pilar de Goiás,Vila Propício,107.4
 Piracanjuba,Pires do Rio,78.58
 Piracanjuba,Pontalina,51.97
 Piracanjuba,Professor Jamil,24.79
 Piracanjuba,Rio Quente,58.54
-Piracanjuba,Santa Bárbara de Goiás,108.66
 Piracanjuba,Santa Cruz de Goiás,56.93
 Piracanjuba,Santo Antônio de Goiás,96.4
 Piracanjuba,São Miguel do Passa Quatro,46.45
 Piracanjuba,Senador Canedo,66.48
 Piracanjuba,Silvânia,83.58
-Piracanjuba,Terezópolis de Goiás,101.13
 Piracanjuba,Trindade,88.25
 Piracanjuba,Urutaí,88.42
 Piracanjuba,Varjão,71.14
 Piracanjuba,Vianópolis,82.08
 Piracanjuba,Vicentinópolis,96.25
-Piranhas,Santa Fé de Goiás,106.25
 Pirenópolis,Rialma,89.48
 Pirenópolis,Rianápolis,74.4
 Pirenópolis,Santa Isabel,79.46
@@ -3984,21 +3353,15 @@ Pirenópolis,Santa Rosa de Goiás,62.99
 Pirenópolis,Santo Antônio de Goiás,79.54
 Pirenópolis,Santo Antônio do Descoberto,75.6
 Pirenópolis,São Francisco de Goiás,33.36
-Pirenópolis,São Patrício,107.59
 Pirenópolis,Senador Canedo,96.42
 Pirenópolis,Silvânia,97.44
 Pirenópolis,Taquaral de Goiás,72.56
 Pirenópolis,Terezópolis de Goiás,61.84
-Pirenópolis,Trindade,105.76
 Pirenópolis,Uruana,87.16
-Pirenópolis,Valparaíso de Goiás,107.73
-Pirenópolis,Vianópolis,109.63
 Pirenópolis,Vila Propício,44.84
-Pires do Rio,Professor Jamil,102.86
 Pires do Rio,Rio Quente,74.28
 Pires do Rio,Santa Cruz de Goiás,21.72
 Pires do Rio,São Miguel do Passa Quatro,49.08
-Pires do Rio,Senador Canedo,108.89
 Pires do Rio,Silvânia,79.61
 Pires do Rio,Urutaí,19.83
 Pires do Rio,Vianópolis,67.4
@@ -4009,8 +3372,6 @@ Planaltina,Vila Boa,75.38
 Pontalina,Porteirão,82.55
 Pontalina,Professor Jamil,37.32
 Pontalina,Rio Quente,76.93
-Pontalina,Santa Bárbara de Goiás,108.96
-Pontalina,Santa Cruz de Goiás,105.25
 Pontalina,São Miguel do Passa Quatro,98.21
 Pontalina,Senador Canedo,98.17
 Pontalina,Trindade,96.94
@@ -4024,13 +3385,11 @@ Porteirão,Rio Verde,79.85
 Porteirão,Santa Helena de Goiás,45.78
 Porteirão,Santo Antônio da Barra,57.27
 Porteirão,Turvelândia,15.05
-Porteirão,Varjão,102.41
 Porteirão,Vicentinópolis,39.26
 Portelândia,Santa Rita do Araguaia,55.42
 Posse,São Domingos,65.4
 Posse,Simolândia,43.85
 Posse,Sítio d'Abadia,80.36
-Posse,Teresina de Goiás,102.45
 Professor Jamil,Rio Quente,76.8
 Professor Jamil,Santa Bárbara de Goiás,89.41
 Professor Jamil,Santa Cruz de Goiás,81.35
@@ -4045,10 +3404,8 @@ Professor Jamil,Vianópolis,95.92
 Professor Jamil,Vicentinópolis,80.09
 Quirinópolis,Rio Verde,87.82
 Quirinópolis,Santa Helena de Goiás,72.28
-Quirinópolis,Santo Antônio da Barra,100.63
 Quirinópolis,São Simão,61.79
 Quirinópolis,Turvelândia,68.31
-Quirinópolis,Vicentinópolis,105.08
 Rialma,Rianápolis,16.4
 Rialma,Rubiataba,29.38
 Rialma,Santa Isabel,16.81
@@ -4075,32 +3432,23 @@ Rianápolis,Vila Propício,67.47
 Rio Quente,Santa Cruz de Goiás,59.62
 Rio Quente,São Miguel do Passa Quatro,80.45
 Rio Quente,Urutaí,69.58
-Rio Quente,Vicentinópolis,109.41
 Rio Verde,Santa Helena de Goiás,34.1
 Rio Verde,Santo Antônio da Barra,39.82
 Rio Verde,Turvelândia,65.61
 Rubiataba,Santa Isabel,43.3
 Rubiataba,Santa Rita do Novo Destino,73.53
-Rubiataba,Santa Rosa de Goiás,107.78
 Rubiataba,Santa Terezinha de Goiás,81.72
-Rubiataba,São Francisco de Goiás,103.03
 Rubiataba,São Luiz do Norte,61.13
 Rubiataba,São Patrício,20.99
-Rubiataba,Taquaral de Goiás,101.32
 Rubiataba,Uirapuru,98.44
-Rubiataba,Uruaçu,100.71
 Rubiataba,Uruana,39.64
-Rubiataba,Vila Propício,104.19
 Sanclerlândia,Santa Bárbara de Goiás,77.88
 Sanclerlândia,Santa Fé de Goiás,97.2
 Sanclerlândia,Santa Rosa de Goiás,88.18
 Sanclerlândia,São João da Paraúna,69.23
 Sanclerlândia,São Luís de Montes Belos,36.61
-Sanclerlândia,São Patrício,108.02
 Sanclerlândia,Taquaral de Goiás,77.38
-Sanclerlândia,Trindade,100.99
 Sanclerlândia,Turvânia,49.85
-Sanclerlândia,Uruana,102.5
 Santa Bárbara de Goiás,Santa Rosa de Goiás,58.25
 Santa Bárbara de Goiás,Santo Antônio de Goiás,42.32
 Santa Bárbara de Goiás,São Francisco de Goiás,85.51
@@ -4122,7 +3470,6 @@ Santa Helena de Goiás,Turvelândia,31.55
 Santa Helena de Goiás,Vicentinópolis,84.43
 Santa Isabel,Santa Rita do Novo Destino,37.34
 Santa Isabel,Santa Rosa de Goiás,87.96
-Santa Isabel,Santa Terezinha de Goiás,100.69
 Santa Isabel,São Francisco de Goiás,72.24
 Santa Isabel,São Luiz do Norte,49.49
 Santa Isabel,São Patrício,42.48
@@ -4130,7 +3477,6 @@ Santa Isabel,Taquaral de Goiás,86.23
 Santa Isabel,Uruaçu,91.19
 Santa Isabel,Uruana,35.92
 Santa Isabel,Vila Propício,60.93
-Santa Rita do Novo Destino,Santa Terezinha de Goiás,100.54
 Santa Rita do Novo Destino,São Francisco de Goiás,89.17
 Santa Rita do Novo Destino,São Luiz do Norte,37.82
 Santa Rita do Novo Destino,São Patrício,78.57
@@ -4139,7 +3485,6 @@ Santa Rita do Novo Destino,Uruana,72.95
 Santa Rita do Novo Destino,Vila Propício,43.74
 Santa Rosa de Goiás,Santo Antônio de Goiás,48.44
 Santa Rosa de Goiás,São Francisco de Goiás,30.66
-Santa Rosa de Goiás,São Luís de Montes Belos,105.49
 Santa Rosa de Goiás,São Patrício,88.63
 Santa Rosa de Goiás,Senador Canedo,81.71
 Santa Rosa de Goiás,Taquaral de Goiás,12.13
@@ -4147,13 +3492,10 @@ Santa Rosa de Goiás,Terezópolis de Goiás,56.22
 Santa Rosa de Goiás,Trindade,63.13
 Santa Rosa de Goiás,Turvânia,90.22
 Santa Rosa de Goiás,Uruana,68.15
-Santa Rosa de Goiás,Varjão,108.07
 Santa Rosa de Goiás,Vila Propício,95.98
-Santa Tereza de Goiás,Santa Terezinha de Goiás,109.56
 Santa Tereza de Goiás,Trombas,37.32
 Santa Tereza de Goiás,Uruaçu,91.07
 Santa Terezinha de Goiás,São Luiz do Norte,62.8
-Santa Terezinha de Goiás,São Patrício,102.68
 Santa Terezinha de Goiás,Uirapuru,28.13
 Santa Terezinha de Goiás,Uruaçu,62.15
 Santo Antônio da Barra,São João da Paraúna,86.32
@@ -4169,9 +3511,7 @@ Santo Antônio de Goiás,Trindade,27.18
 Santo Antônio de Goiás,Turvânia,89.38
 Santo Antônio de Goiás,Varjão,71.61
 Santo Antônio de Goiás,Vianópolis,89.34
-Santo Antônio do Descoberto,São Francisco de Goiás,107.23
 Santo Antônio do Descoberto,Silvânia,88.25
-Santo Antônio do Descoberto,Terezópolis de Goiás,101.22
 Santo Antônio do Descoberto,Valparaíso de Goiás,33.15
 Santo Antônio do Descoberto,Vianópolis,93.05
 Santo Antônio do Descoberto,Vila Propício,86.0
@@ -4179,13 +3519,11 @@ São Domingos,Simolândia,97.79
 São Domingos,Teresina de Goiás,59.35
 São Francisco de Goiás,São Patrício,87.52
 São Francisco de Goiás,Senador Canedo,88.89
-São Francisco de Goiás,Silvânia,107.3
 São Francisco de Goiás,Taquaral de Goiás,39.31
 São Francisco de Goiás,Terezópolis de Goiás,55.6
 São Francisco de Goiás,Trindade,84.46
 São Francisco de Goiás,Uruana,65.74
 São Francisco de Goiás,Vila Propício,66.26
-São João d'Aliança,Teresina de Goiás,106.48
 São João d'Aliança,Vila Boa,62.76
 São João da Paraúna,São Luís de Montes Belos,32.65
 São João da Paraúna,Trindade,99.22
@@ -4205,11 +3543,9 @@ São Miguel do Passa Quatro,Silvânia,44.65
 São Miguel do Passa Quatro,Terezópolis de Goiás,86.17
 São Miguel do Passa Quatro,Trindade,99.29
 São Miguel do Passa Quatro,Urutaí,66.62
-São Miguel do Passa Quatro,Varjão,103.04
 São Miguel do Passa Quatro,Vianópolis,38.6
 São Patrício,Taquaral de Goiás,81.36
 São Patrício,Uruana,21.81
-São Patrício,Vila Propício,101.02
 Senador Canedo,Silvânia,51.74
 Senador Canedo,Taquaral de Goiás,91.19
 Senador Canedo,Terezópolis de Goiás,34.93
@@ -4228,19 +3564,14 @@ Taquaral de Goiás,Terezópolis de Goiás,67.69
 Taquaral de Goiás,Trindade,67.72
 Taquaral de Goiás,Turvânia,84.37
 Taquaral de Goiás,Uruana,62.09
-Taquaral de Goiás,Vila Propício,101.93
 Terezópolis de Goiás,Trindade,52.5
 Terezópolis de Goiás,Varjão,93.35
 Terezópolis de Goiás,Vianópolis,71.35
-Terezópolis de Goiás,Vila Propício,106.67
-Três Ranchos,Urutaí,108.6
 Trindade,Turvânia,68.77
 Trindade,Varjão,46.37
-Trindade,Vianópolis,104.5
 Turvânia,Varjão,72.33
 Turvelândia,Vicentinópolis,54.3
 Uirapuru,Uruaçu,88.2
-Uruaçu,Vila Propício,107.09
 Uruana,Vila Propício,86.33
 Urutaí,Vianópolis,87.23
 Valparaíso de Goiás,Vianópolis,94.66

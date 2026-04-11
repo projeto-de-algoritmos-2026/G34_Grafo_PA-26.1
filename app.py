@@ -2,6 +2,7 @@ import streamlit as st
 import folium
 from streamlit_folium import st_folium
 import unicodedata
+import time
 from kruskal import executar_kruskal
 from prim import executar_prim
 from transformardados import carregar_coordenadas, gerar_grafo_ponderado
@@ -24,10 +25,17 @@ def chave_ordenacao_cidade(cidade):
     return texto_sem_acento.casefold()
 
 @st.cache_data
-def gerar_e_executar_algoritmo(distancia_maxima_km, algoritmo):
+def gerar_caminho_grafo(distancia_maxima_km):
     caminho_grafo = gerar_grafo_ponderado(distancia_maxima_km)
+    return caminho_grafo
+
+
+def gerar_e_executar_algoritmo(distancia_maxima_km, algoritmo):
+    caminho_grafo = gerar_caminho_grafo(distancia_maxima_km)
+    inicio = time.perf_counter()
     mst, vertices = ALGORITMOS[algoritmo](caminho_grafo)
-    return mst, sorted(list(vertices), key=chave_ordenacao_cidade)
+    tempo_execucao = time.perf_counter() - inicio
+    return mst, sorted(list(vertices), key=chave_ordenacao_cidade), tempo_execucao
 
 def filtrar_componente(mst, origem):
     adj = {}
@@ -70,7 +78,7 @@ if st.session_state.pagina == 'principal':
         step=10
     )
 
-    arvore_geradora, lista_cidades = gerar_e_executar_algoritmo(float(distancia_maxima), algoritmo)
+    arvore_geradora, lista_cidades, tempo_execucao = gerar_e_executar_algoritmo(float(distancia_maxima), algoritmo)
 
     st.info(f"Grafo gerado com {len(arvore_geradora)} arestas na Árvore Geradora Mínima para {len(lista_cidades)} municípios conectados.")
 
@@ -80,6 +88,7 @@ if st.session_state.pagina == 'principal':
         st.session_state.origem = origem
         st.session_state.mst = arvore_geradora
         st.session_state.algoritmo = algoritmo
+        st.session_state.tempo_execucao = tempo_execucao
         mudar_pagina('mapa')
         st.rerun()
 
@@ -87,6 +96,7 @@ elif st.session_state.pagina == 'mapa':
     origem = st.session_state.origem
     mst = st.session_state.mst
     algoritmo = st.session_state.algoritmo
+    tempo_execucao = st.session_state.tempo_execucao
 
     st.button("Nova consulta", on_click=mudar_pagina, args=('principal',))
 
@@ -165,8 +175,9 @@ elif st.session_state.pagina == 'mapa':
     custo_total = sum(p for _, _, p in mst)
 
     st.success(f"Algoritmo: {algoritmo} | Nó de origem: {origem}")
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     col1.metric("Custo do componente de origem (km)", f"{custo_origem:.2f}")
     col2.metric("Custo total da floresta geradora (km)", f"{custo_total:.2f}")
+    col3.metric("Tempo de execução", f"{tempo_execucao:.4f} s")
 
     st_folium(mapa, width=1000, height=500)

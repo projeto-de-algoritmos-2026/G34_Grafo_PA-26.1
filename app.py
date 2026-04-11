@@ -1,6 +1,7 @@
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
+import unicodedata
 from kruskal import executar_kruskal
 from prim import executar_prim
 from transformardados import carregar_coordenadas, gerar_grafo_ponderado
@@ -16,11 +17,17 @@ ALGORITMOS = {
     "Prim": executar_prim,
 }
 
+
+def chave_ordenacao_cidade(cidade):
+    texto_normalizado = unicodedata.normalize("NFKD", cidade)
+    texto_sem_acento = "".join(caractere for caractere in texto_normalizado if not unicodedata.combining(caractere))
+    return texto_sem_acento.casefold()
+
 @st.cache_data
 def gerar_e_executar_algoritmo(distancia_maxima_km, algoritmo):
     caminho_grafo = gerar_grafo_ponderado(distancia_maxima_km)
     mst, vertices = ALGORITMOS[algoritmo](caminho_grafo)
-    return mst, sorted(list(vertices))
+    return mst, sorted(list(vertices), key=chave_ordenacao_cidade)
 
 def filtrar_componente(mst, origem):
     adj = {}

@@ -24,7 +24,6 @@ def chave_ordenacao_cidade(cidade):
     texto_sem_acento = "".join(caractere for caractere in texto_normalizado if not unicodedata.combining(caractere))
     return texto_sem_acento.casefold()
 
-@st.cache_data
 def gerar_caminho_grafo(distancia_maxima_km):
     caminho_grafo = gerar_grafo_ponderado(distancia_maxima_km)
     return caminho_grafo

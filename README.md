@@ -50,7 +50,7 @@ Visualização em um mapa geoespacial com os componentes que fazem parte da MST 
 
 ## Uso 
 
-### Web App (Recomendado)
+### Web App
 ```
 streamlit run app.py
 ```
@@ -63,3 +63,9 @@ streamlit run app.py
 - **Dataset:** Coordenadas municípios Goiás de https://github.com/kelvins/Municipios-Brasileiros.
 - **Grafo:** Gerado dinamicamente com filtro distância (Haversine), salvo em `datasets/grafoPonderadoMunicipios.csv`.
 - Projeto acadêmico G34 - Projeto de Algoritmos 2026.1.
+
+## Vídeo apresentação
+
+O vídeo de apresentação pode ser acessado clicando no link abaixo.
+
+[Apresentação](https://youtu.be/UvSfPQxKnwY)
